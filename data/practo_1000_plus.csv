@@ -1,0 +1,1319 @@
+Doctor_Name,Hospital_Name,City,Specialization,Experience_in_years,Consultation_Fee,Patient_Rating,Reviews,Source
+Dr. Chandrashekhar Reddy,Sri Sai Dental Hospital,hyderabad,Dentist,27,400,95,58,Practo
+Dr. M. S. Sushma Susik,Brite Smiles Dental Clinic,hyderabad,Dentist,35,300,97,777,Practo
+Dr. Vikas Gowd,Dr.Gowds Dental Hospitals,hyderabad,Dentist,27,500,98,107,Practo
+Dr. Pallavi G Pawar,Sri Sai Dental Hospital,hyderabad,Dentist,22,400,80,5,Practo
+Dr. Syed Saood Hasan Razvi,Denta'Glo Dental Clinic & Implant Centre,hyderabad,Dentist,20,300,98,251,Practo
+Dr. Kirti Arun Kodmankar,Dr. Gowd's Dental Hospital,hyderabad,Dentist,20,500,94,36,Practo
+Dr. Neelima Ravipati,Cradle Of Youth Your Personal Dermatologist,hyderabad,Hair Transplant Surgeon,15,700,98,402,Practo
+Dr. B Vishnu Chaitanya Goud,Ethos Dental,hyderabad,Dentist,16,500,99,332,Practo
+Dr. Keerti D Pratap,Krutika Dental Clinic,hyderabad,Dentist,27,300,100,35,Practo
+Dr. Sonali Rathore,FMS Dental Hospital,hyderabad,Dentist,15,500,100,1,Practo
+Dr. Apeksha,FMS Dental,hyderabad,Dentist,16,500,100,1,Practo
+Dr. Ashok,Maurya Dental Specialities,hyderabad,Dentist,19,300,97,225,Practo
+Dr. A. R. Veejai Chandran.,FMS Dental,hyderabad,Dentist,15,500,,,Practo
+Dr. B.Srikanth,Akshaya Dental Hospital And Implant Center,hyderabad,Dentist,16,300,98,58,Practo
+Dr. Sanjay Sakhamuri,Sasha Luxe Dermatology and Cosmetic Surgery Centre,hyderabad,Cosmetologist,15,1000,100,34,Practo
+Dr. Navya Chowdary,Sasha Luxe Dermatology and Cosmetic Surgery Centre,hyderabad,Dermatologist,16,1000,87,68,Practo
+Dr. Rathnakaram Leelavathi,JJ Wellness Clinic,hyderabad,Dermatologist,27,800,25,12,Practo
+Dr. Naresh Gaddala,FMS Dental Hospital,hyderabad,Dentist,16,500,,,Practo
+Dr. M S Gowd,Dr. Gowd's Dental Hospital,hyderabad,Dentist,59,1000,97,34,Practo
+Dr. Vuyyuru Manjula Priya Darshini,Sikara Clinics,hyderabad,Dermatologist,27,1000,,,Practo
+Dr. Advaith Sai Alampur,SAI JYOTHI EYE HOSPITAL,hyderabad,Ophthalmologist,17,500,94,66,Practo
+Dr. Deepika M,Sai Jyothi Eye Hospital,hyderabad,Ophthalmologist,19,500,100,2,Practo
+Dr. K K Reddy Sadu,K K Reddy Hospital,hyderabad,General Physician,25,800,96,879,Practo
+Dr. Anilkumar Namburi,Virinchi Hospitals,hyderabad,General Physician,26,600,100,1,Practo
+Dr. Channamsetty Sashidhar,Sathya Kidney Center,hyderabad,Nephrologist,26,750,100,1,Practo
+Dr. Shiva Ramakrishna Konda,Virinchi Hospitals,hyderabad,General Practitioner,18,600,100,1,Practo
+Dr. Mithil B Ghushe,Medicover Hospitals - Hitech City,hyderabad,General Physician,23,600,89,70,Practo
+Dr. Saritha K,Sree Manju Hospitals,hyderabad,Family Physician,18,600,90,20,Practo
+Dr. Mitilesh Raut,Medicover Hospitals - Hitech City,hyderabad,General Physician,22,600,100,5,Practo
+Dr. Vinay Kumar,Medicover Hospitals - Hitech City,hyderabad,General Physician,19,600,50,2,Practo
+Dr. Syed Imran Ahmed,Premier Hospital,hyderabad,General Physician,25,500,80,5,Practo
+Dr. Chetan B.Mahajan,The Deccan Hospital,hyderabad,General Physician,25,700,93,15,Practo
+Dr. Srinivas Jakkinaboina,Shri Sigma Hospital,hyderabad,General Physician,28,500,87,30,Practo
+Dr. Rahul Gandhi Godisela,Medicover Hospital,hyderabad,General Physician,22,1000,92,61,Practo
+Dr. Naveen Kumar Pothireddy,Medicover Hospitals - Hitech City,hyderabad,General Physician,17,600,98,177,Practo
+Dr. Syed Naveed,"Renova Hospital, Langar House",hyderabad,General Physician,21,700,90,10,Practo
+Dr. Rama Priya Rengaswamy,Sathya Kidney Center,hyderabad,General Physician,21,750,50,2,Practo
+Dr. Vallabhu Venu,Siddarth Neuro Centre,hyderabad,General Physician,32,600,,,Practo
+Dr. Ajit Kumar Azad,Sree Manju Hospitals,hyderabad,General Physician,20,700,94,14,Practo
+Dr. Dhanalakshmi Inala,K K Reddy Hospital,hyderabad,General Physician,24,800,90,10,Practo
+Dr. V Ravi Kiran,Renova - NIGL Hospitals,hyderabad,General Physician,25,700,100,4,Practo
+Dr. Donthula Narendar,Stork Hospitals,hyderabad,Pain Management Specialist,15,600,100,1,Practo
+Dr. Karimunnisa Begum,Butterfly Hospitals,hyderabad,General Physician,22,600,50,4,Practo
+Dr. K Vamsi Mohan,Pragma Hospitals,hyderabad,General Physician,16,600,77,13,Practo
+Dr. T Vamshee,Medicover Woman & Child Hospitals - Hitech City,hyderabad,Pediatrician,19,800,,,Practo
+Dr. Y Geeta Devi,Health Valley Hospital,hyderabad,Internal Medicine,28,800,83,46,Practo
+Dr. Kishor Kumar,Medicover Hospital,hyderabad,General Physician,21,1000,,,Practo
+Dr. Pradeep Kumar Mishra,Medicover Hospitals,hyderabad,General Physician,26,1000,93,12,Practo
+Dr. Ravindra Kumar Sravanam,Amor Hospitals,hyderabad,General Physician,16,900,100,10,Practo
+Dr. Fareesa Qasim,Kingston Hospitals,hyderabad,Anesthesiologist,42,600,67,4,Practo
+Dr. Sandeep,SV Super Speciality Hospital,hyderabad,Anesthesiologist,15,500,,,Practo
+Dr. Lunavath Kishanlal,SV Super Speciality Hospital,hyderabad,General Physician,15,700,,,Practo
+Dr. Raghavendhar,Seasons Hospital,hyderabad,General Physician,21,600,,,Practo
+Dr. Venugopal Arroju,Medicover Cancer Institute,hyderabad,General Physician,18,800,100,1,Practo
+Dr. R.N.V. Vamsi Krishna,Medicover Hospitals,hyderabad,General Physician,17,800,80,10,Practo
+Dr. Chandramohan,SV Super Speciality Hospital,hyderabad,General Physician,17,800,,,Practo
+Dr. Shaziya Afreen,Premier Hospital,hyderabad,General Physician,16,500,100,4,Practo
+Dr. G M Subramanyam,Medicover Hospitals,hyderabad,General Physician,38,1000,,,Practo
+Dr. Ratan Jha,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Nephrologist,43,1000,88,7,Practo
+Dr. Vijay Prakash,Virinchi Hospitals,hyderabad,Ear-Nose-Throat (ENT) Specialist,20,600,92,51,Practo
+Dr. Sushanth M. V.,Kasturi Hospital,hyderabad,Orthopedist,27,700,88,133,Practo
+Dr. P Tanuja,Aster Prime Hospital,hyderabad,Reproductive Medicine and Infertility,17,800,98,53,Practo
+Dr. Suryaprakash Hedda,Renova Neelima Hospitals (formerly Neelima Hospitals),hyderabad,Pediatrician,17,800,94,33,Practo
+Dr. Krishna Prasad A R,Medicover Hospitals - Hitech City,hyderabad,Cardiothoracic Surgeon,32,800,82,11,Practo
+Dr. Biju Govind,Sri Sri Holistic Hospitals,hyderabad,Cardiologist,32,400,80,4,Practo
+Dr. Natesh Kolusu,Virinchi Hospitals,hyderabad,Orthopedist,17,600,88,7,Practo
+Dr. Anand Subhash Wani,Ankura Hospital for Women & Children,hyderabad,Pediatrician,18,800,100,9,Practo
+Dr. Ravi Kumar Reddy,Medivision Eye Care Centre,hyderabad,Ophthalmologist,48,500,92,48,Practo
+Dr. Malathi Devi,Prathima Hospitals,hyderabad,Gynecologist/Obstetrician,43,800,76,29,Practo
+Dr. Vandana Hegde,Hegde Fertility,hyderabad,Infertility Specialist,23,800,93,2125,Practo
+Dr. A. Saibaba Goud,Saijyothi Eye Hospital,hyderabad,Ophthalmologist,56,400,87,63,Practo
+Dr. M Krishna,Siddarth Neuro Centre,hyderabad,Pediatrician,42,500,89,9,Practo
+Dr. Sree Durga Patchava,Virinchi Hospitals,hyderabad,Gynecologist/Obstetrician,30,900,50,2,Practo
+Dr. Balachandra Reddy,Virinchi Hospitals,hyderabad,Plastic Surgeon,19,600,100,3,Practo
+Dr. Siddartha Reddy,Siddarth Neuro Centre,hyderabad,Neurologist,18,1500,92,1439,Practo
+Dr. M.Naveen Kumar,Dr. Deenadayals ENT Care Centre,hyderabad,Ear-Nose-Throat (ENT) Specialist,24,800,99,162,Practo
+Dr. Bharath Reddy D,Medicover Hospitals - Hitech City,hyderabad,Cardiologist,16,800,94,16,Practo
+Dr. Sanjeev Singh Yadav,EPIC International Hospitals Private Limited,hyderabad,General Surgeon,38,750,93,194,Practo
+Dr. Y Krishna Mohan,Virinchi Hospitals,hyderabad,Bariatric Surgeon,31,1100,100,3,Practo
+Dr. Revanth Reddy Gangasani,Virinchi Hospitals,hyderabad,Oncologist,19,600,,,Practo
+Dr. Alok Rath,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,General Surgeon,26,650,100,1,Practo
+Dr. Hari Narayan Prasad,Medivision Eye Care Centre,hyderabad,Ophthalmologist,26,500,,,Practo
+Dr. Gopi Krishna Reddy G,Sri Sri Holistic Hospitals,hyderabad,Orthopedist,19,450,90,26,Practo
+Dr. G Durga Rao,Oasis Fertility,hyderabad,Infertility Specialist,32,1000,99,265,Practo
+Dr. Anurag Chitranshi,Aster Prime Hospital,hyderabad,Plastic Surgeon,27,500,100,6,Practo
+Dr. MD. Khalil Khan,Ankura Hospital for Women & Children,hyderabad,Pediatrician,25,700,98,40,Practo
+Dr. Pradeep Deshpande,Virinchi Hospitals,hyderabad,Nephrologist,47,600,75,4,Practo
+Dr. Rajesh Kumar Enagala,EPIC International Hospitals Private Limited,hyderabad,Radiologist,28,750,100,22,Practo
+Dr. Prashanth Chandra NY,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Internal Medicine,18,850,86,57,Practo
+Dr. Kishore B Reddy,Amor Hospitals,hyderabad,Orthopedist,24,1100,83,89,Practo
+Dr. Katta Venkateswara Rao,Archana Hospitals,hyderabad,General Surgeon,23,500,100,3,Practo
+Dr. P Siddharth Reddy,Archana Hospitals,hyderabad,Orthopedist,17,500,91,10,Practo
+Dr. Kuchula Kanti Pramod Kumar,Medicover Hospitals,hyderabad,Cardiologist,36,1200,96,9,Practo
+Dr. V Raja Manohar Acharyulu,Medicover Hospitals - Hitech City,hyderabad,Pulmonologist,16,600,83,18,Practo
+Dr. Sridevi K,Amor Hospitals,hyderabad,Gynecologist/Obstetrician,29,900,94,192,Practo
+Dr. Mahesh Marda,Premier Hospital,hyderabad,Internal Medicine,48,800,83,12,Practo
+Dr. Sridevi Gutta,Prathima Hospitals,hyderabad,Gynecologist/Obstetrician,25,600,86,59,Practo
+Dr. Rehan Sabir Momin,EPIC International Hospitals Private Limited,hyderabad,Gastroentrology Surgeon,16,750,98,53,Practo
+Dr. B.V.N. Kumar Sureddi,Virinchi Hospitals,hyderabad,Gastroenterologist,24,600,95,20,Practo
+Dr. A Suresh Chandra,Virinchi Hospitals,hyderabad,GastroIntestinal Surgeon,27,600,100,11,Practo
+Dr. Balaji Patel,EPIC International Hospitals Private Limited,hyderabad,Radiologist,23,750,94,16,Practo
+Dr. Jayashree Reddy,Ankura hospital for women and children,hyderabad,Infertility Specialist,47,1000,94,156,Practo
+Dr. Greeshma P,Blume Health - Multispeciality Hospital,hyderabad,Ear-Nose-Throat (ENT) Specialist,22,1000,93,1030,Practo
+Dr. Gunjan Shoor,Renova Neelima Hospitals (formerly Neelima Hospitals),hyderabad,Pediatric Surgeon,15,1000,98,47,Practo
+Dr. V N B Raju,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Pulmonologist,15,1000,100,,Practo
+Dr. Vindhya Gemaraju,Ankura Hospital For Women and Children,hyderabad,Gynecologist/Obstetrician,22,1000,95,43,Practo
+Dr. G Geeta Devi,Ankura Hospital for Women & Children,hyderabad,Gynecologist/Obstetrician,15,700,100,3,Practo
+Dr. Srinivas Jakka,Ankura Hospital for Women & Children,hyderabad,Pediatrician,21,800,92,24,Practo
+Dr. P. Vamsi Krishna,Care Hospital,hyderabad,Laparoscopic Surgeon,22,1000,95,57,Practo
+Dr. Niloufer Ali,Aster Prime Hospital,hyderabad,Neurologist,15,800,67,3,Practo
+Dr. Satish Pawar,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Oncologist,23,850,83,6,Practo
+Dr. Venkata Vijay,Virinchi Hospitals,hyderabad,Cardiologist,39,1000,100,,Practo
+Dr. Akash Chaudhary,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Gastroenterologist,26,1000,,,Practo
+Dr. Parinaaz Parhar,Oasis Fertility,hyderabad,Infertility Specialist,18,,100,67,Practo
+Dr. Bharat Patodiya,Amor Hospitals,hyderabad,Oncologist,18,1100,100,24,Practo
+Dr. Praveen Kumar Etta,Aster Prime Hospital,hyderabad,Nephrologist,20,700,95,130,Practo
+Dr. P. Sandeep Reddy,Ankura Hospital For Women and Children,hyderabad,Pediatrician,17,700,96,264,Practo
+Dr. H Guru Prasad,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Internal Medicine,27,1000,80,5,Practo
+Dr. Ather Pasha,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Internal Medicine,25,850,100,1,Practo
+Dr. Divya Teja Mugada,Sri Sri Holistic Hospitals,hyderabad,Pediatrician,15,500,100,1,Practo
+Dr. Ravichander Rao A,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Hair Transplant Surgeon,26,850,100,129,Practo
+Dr. K Rupak Kumar Reddy,Medivision Eye Care Centre,hyderabad,Ophthalmologist,16,500,78,9,Practo
+Dr. Raghav Sunil,Renova - NIGL Hospitals,hyderabad,Spine Surgeon,20,800,96,371,Practo
+Dr. G Dhanalakshmi,Virinchi Hospitals,hyderabad,Nephrologist,22,800,75,4,Practo
+Dr. Rajini Muthineni,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Gynecologist/Obstetrician,23,1000,67,3,Practo
+Dr. D Arun Kumar,Medicover Hospitals - Hitech City,hyderabad,Nephrologist,15,800,100,2,Practo
+Dr. G V Praveen Kumar,Asian Vascular Hospital,hyderabad,Vascular Surgeon,24,1200,75,60,Practo
+Dr. G Keertana Reddy,Green Med Hospital,hyderabad,Gynecologist/Obstetrician,17,650,97,260,Practo
+Dr. Chaitanya Challa,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Internal Medicine,15,1000,45,11,Practo
+Dr. Meena Thotakura,Medivision Eye Care Centre,hyderabad,Ophthalmologist,16,500,,,Practo
+Dr. Jameela Begum,Sree Manju Hospitals,hyderabad,Gynecologist/Obstetrician,43,500,92,11,Practo
+Dr. Jagadesh Reddy C,Pristine Eye Hospitals,hyderabad,Ophthalmologist,23,750,89,17,Practo
+Dr. Padmavathi Ravipati,ART Fertility Clinics,hyderabad,Infertility Specialist,15,,99,97,Practo
+Dr. G Kartheek,Aster Prime Hospital,hyderabad,Urologist,15,700,100,1,Practo
+Dr. T Padma Sree,Medivision Eye Care Centre,hyderabad,Ophthalmologist,30,500,,,Practo
+Dr. Durga Prasad K K,Ankura hospital for women and children,hyderabad,Pediatrician,23,1000,90,20,Practo
+Dr. Prakash Ajmera,Malla Reddy Narayana Multispeciality Hospital,hyderabad,Cardiologist,21,600,79,18,Practo
+Dr. Ashok Prudviraju Moganti,Medicover Hospitals - Hitech City,hyderabad,Ear-Nose-Throat (ENT) Specialist,17,600,94,109,Practo
+Dr. A Raghu Kanth,Medicover Hospitals - Hitech City,hyderabad,Pulmonologist,18,600,93,14,Practo
+Dr. Mohammed Muzahid,Amor Hospitals,hyderabad,Neurosurgeon,24,1100,100,1,Practo
+Dr. A Vani Reddy,Medivision Eye Care Centre,hyderabad,Ophthalmologist,26,500,,,Practo
+Dr. B. Radhika,Medicover Woman & Child Hospitals - Hitech City,hyderabad,Gynecologist/Obstetrician,22,800,77,31,Practo
+Dr. Randhir Kumar,Care Hospital,hyderabad,Neurosurgeon,30,1000,86,7,Practo
+Dr. Ravindra Amujuru,Amor Hospitals,hyderabad,Cardiologist,20,1100,87,15,Practo
+Dr. Talacheru Srinivasulu,Aster Prime Hospital,hyderabad,Internal Medicine,22,700,50,2,Practo
+Dr. Abhishek Katha,Lux Hospitals,hyderabad,General Surgeon,17,500,99,115,Practo
+Dr. Poornima Battala,9M Fertiliy By Ankura Hospital,hyderabad,Infertility Specialist,17,800,99,509,Practo
+Dr. Naveen Kumar Bashetty,Dr. Deenadayals ENT Care Centre,hyderabad,Ear-Nose-Throat (ENT) Specialist,24,800,76,6,Practo
+Dr. Abhilash N,Dr. Abhilash's Laparoscopy & Laser Clinics,hyderabad,General Surgeon,15,650,95,73,Practo
+Dr. Vikranth Mummaneni,"CARE Hospitals Outpatient Centre, Banjara Hills",hyderabad,Oncologist,23,850,,,Practo
+Dr. Sumanth Shetty,Chisel Dental,bangalore,Dentist,27,300,96,4869,Practo
+Dr. K A Mohan,Dental De Care,bangalore,Dentist,57,500,94,77,Practo
+Dr. Mahantesh,Smile Care Orthodontic Center and Multispeciality Dental Clinic,bangalore,Dentist,18,500,99,2740,Practo
+Dr. Harish Prasad B.R,Vitals Skin and hair clinic,bangalore,Hair Transplant Surgeon,19,1000,95,838,Practo
+Dr. Baswaraj Biradar,Impressions Dental Specialities,bangalore,Dentist,29,400,98,2309,Practo
+Dr. Renu Nair,Dr. Renu's Skin And Hair Clinic,bangalore,Dermatologist,18,900,97,483,Practo
+Dr. Sunil Rao,Smile Dental Care,bangalore,Dentist,30,500,97,462,Practo
+Dr. Shyam Padmanabhan,Vignesh Dental Speciality Centre,bangalore,Dentist,30,500,99,805,Practo
+Dr. Abhilash Ravindranath,Smiles N Invisalign and Dental Implant Centre,bangalore,Dentist,23,500,96,2481,Practo
+Dr. Deepthi B C,Wisden Clinics,bangalore,Dentist,18,300,98,240,Practo
+Dr. Kim Upadhyay,Kosmodent Dental Studio and Implant Centre,bangalore,Dentist,19,500,96,164,Practo
+Dr. Bhavin Shah,American Dental Practices,bangalore,Dentist,17,500,99,417,Practo
+Dr. Nishanth Shetty,IMEX CARE DENTAL CLINIC PRIVATE LIMITED,bangalore,Dentist,15,500,100,1721,Practo
+Dr. Dinesh,Smile Care Orthodontic Center and Multispeciality Dental Clinic,bangalore,Dentist,18,500,95,56,Practo
+Dr. A. Praveen Kumar Reddy,Smaya's Dento Care,bangalore,Dentist,19,300,96,79,Practo
+Dr. Venkatesh M J,All Care Dental Centre - since 1969,bangalore,Dentist,32,300,85,68,Practo
+Dr. Aarti Talikoti,Infinit Dental Solutions,bangalore,Dentist,23,400,97,226,Practo
+Dr. Vivekananda Reddy,Smile Craft Dental and Implant Centre,bangalore,Dentist,25,500,98,530,Practo
+Dr. Prahlad Shenava,DENTIN Multispeciality Dental Clinic and Implant Centre,bangalore,Dentist,16,1000,99,77,Practo
+Dr. Savitha A S,Calyx Skin Lab,bangalore,Dermatologist,20,900,91,196,Practo
+Dr. Prafulla Biradar,Impressions Dental Specialities,bangalore,Dentist,25,400,99,446,Practo
+Dr. Eswari.L,Skin Xperts Super Speciality Skin Hair and Laser Clinics,bangalore,Dermatologist,25,750,83,47,Practo
+Dr. Rupali Borkar,V-Care Dental Speciality Clinic,bangalore,Dentist,27,500,75,16,Practo
+Dr. Jonathan Eric Rao,Urban Dental Clinic,bangalore,Dentist,18,500,98,332,Practo
+Dr. Kumar Gaurav,DENTIN Multispeciality Dental Clinic and Implant Centre,bangalore,Dentist,15,400,100,29,Practo
+Dr. Jnanesha H.C,Excel Dental Care,bangalore,Dentist,24,300,98,523,Practo
+Dr. Pramod,Dental de Care,bangalore,Dentist,22,500,98,760,Practo
+Dr. Raghavendra,Gajanana Smile Care Dental Clinic,bangalore,Dentist,16,400,100,2088,Practo
+Dr. Allu Venkateswara Reddy,The Dental Venue,bangalore,Dentist,28,500,88,41,Practo
+Dr. Sharada P Gowda,American Dental Practices,bangalore,Dentist,17,500,98,218,Practo
+Dr. Vahini Nayar,The Dental Venue,bangalore,Dentist,28,500,92,13,Practo
+Dr. Sheelavathi Natraj,Sapphire Skin and Aesthetics Clinic,bangalore,Dermatologist,22,900,93,1697,Practo
+Dr. M J Murali,All Care Dental Centre - since 1969,bangalore,Dentist,29,300,94,227,Practo
+Dr. S Tamil Arasi,Smaya's Dento Care,bangalore,Dentist,22,300,50,,Practo
+Dr. Archana S,Dental Trendz,bangalore,Dentist,21,400,98,290,Practo
+Dr. Pavan T P,Credence Dental,bangalore,Dentist,17,500,99,335,Practo
+Dr. Shambhu H Shivanna,Ivory Dental,bangalore,Dentist,27,400,98,632,Practo
+Dr. D N Naveen,Vignesh Dental Speciality Centre,bangalore,Dentist,32,500,97,104,Practo
+Dr. Raju Srinivas,Dental Health Care Clinic,bangalore,Dentist,30,400,95,226,Practo
+Dr. Ramya,Ivory Dental,bangalore,Dentist,23,400,98,56,Practo
+Dr. Swarnalatha Bejjam,Smaya's Dento Care,bangalore,Dentist,19,300,75,4,Practo
+Dr. Sanjay Kaul,V-Care Dental Speciality Clinic,bangalore,Dentist,30,500,93,582,Practo
+Dr. Sirse Namrata,Smile Care Orthodontic Center and Multispeciality Dental Clinic,bangalore,Dentist,14,500,99,206,Practo
+Dr. Aditi Garg,Elite Esthetics and Dental Clinic,bangalore,Dentist,19,400,98,183,Practo
+Dr. Minty Sharma,Smiles Dental Studio,bangalore,Dentist,20,350,98,1016,Practo
+Dr. Sindhu S Kumar,Excel Dental Care,bangalore,Dentist,17,300,99,202,Practo
+Dr. Vishwanath Hiremath,Dr. Hiremath Hospital,bangalore,Dentist,29,500,,,Practo
+Dr. Sanjay S Desai,Dr. Desai Skin and Hair Clinic,bangalore,Dermatologist,18,600,93,98,Practo
+Dr. Parthasarathi Dutta Roy,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,bangalore,Dermatologist,23,900,88,5039,Practo
+Dr. Mallayya R. Pujari,32 Smiles Multispeciality Dental Clinic,bangalore,Dentist,20,200,96,4001,Practo
+Dr. Rashmi Shetty,Chisel Dental,bangalore,Dentist,21,350,99,4586,Practo
+Dr. Prashanth G.S,Ivory Dental,bangalore,Dentist,27,500,98,125,Practo
+Dr. Chiranjeevi Reddy,Ivory Dental,bangalore,Dentist,26,400,99,463,Practo
+Dr. Amrutha,Skin Xperts Super Speciality Skin Hair And Laser Clinics,bangalore,Dermatologist,17,500,69,36,Practo
+Dr. Preetha Peethambar,Smiles N Invisalign and Dental Implant Centre,bangalore,Dentist,24,500,99,152,Practo
+Dr. Neha Gupta,DYU Aesthetics,bangalore,Dermatologist,25,1000,89,70,Practo
+Dr. Swati Bhat,Hosmat Hospital,bangalore,Spine And Pain Specialist,20,1200,78,9,Practo
+Dr. Vithal Malmande,HOSMAT Hospital,bangalore,Plastic Surgeon,21,750,100,10,Practo
+Dr. Cajetan M F Tellis,Sai Thunga Hospitals,bangalore,Pediatrician,37,800,87,199,Practo
+Dr. Pallavi Rathi,My Skin My Health,mumbai,Dermatologist,22,1500,88,703,Practo
+Dr. Amit Gulati,Akira Skin And Hair Clinic,mumbai,Dermatologist,19,1200,98,94,Practo
+Dr. Agarkar Amit Suresh,V Plant Advance Hair Clinic,mumbai,Hair Transplant Surgeon,21,600,91,182,Practo
+Dr. Chitrang Thaker,The Dental Studio,mumbai,Dentist,26,500,97,817,Practo
+Dr. Manoj Bodhwani,Tooth Avenue,mumbai,Dentist,20,500,98,303,Practo
+Dr. Dhruti Raut Chavan,Smile Again Dental Clinic,mumbai,Dentist,17,500,98,126,Practo
+Dr. Manish S. Sonawane,Millennium Smile Dental Clinic,mumbai,Dentist,21,1000,99,212,Practo
+Dr. Raina Nahar,Kaizen Skin Clinic,mumbai,Dermatologist,18,1200,92,507,Practo
+Dr. Varoon Jain,Smile Sutra Multi Speciality Dental Clinic,mumbai,Dentist,19,500,95,133,Practo
+Dr. Parag M. Khatri,Dental Square,mumbai,Dentist,33,500,99,1440,Practo
+Dr. Vaidehi Saigaonkar Newaskar,Krasa Skin and Hair Clinic,mumbai,Dermatologist,16,2000,99,184,Practo
+Dr. Bharti Patel,Bella Skin & Hair Clinic,mumbai,Dermatologist,21,1500,93,1622,Practo
+Dr. Reshma Phulwar,32 Pearls Dental Clinic,mumbai,Dentist,30,500,95,714,Practo
+Dr. Kshama P Vibhakar,Skin 'N' Sculpt,mumbai,Dermatologist,23,1500,94,351,Practo
+Dr. Bhavin Shah,American Dental Practices,mumbai,Dentist,17,500,99,417,Practo
+Dr. Amit Chavan,Smile Again Dental Clinic,mumbai,Dentist,18,500,99,587,Practo
+Dr. Suraj Shetty,Tvaksh Advanced Skin And Hair Clinic,mumbai,Dermatologist,17,1500,98,287,Practo
+Dr. Reshma Shankar Chawla,Blanco Aesthetics,mumbai,Dentist,16,500,96,83,Practo
+Dr. Amruta Save,American Dental Practices,mumbai,Dentist,17,500,96,24,Practo
+Dr. Sonia Tekchandani,Tender Skin International,mumbai,Dermatologist,40,1500,94,619,Practo
+Dr. Purnima Arbhanad,Krishna Eye Centre,mumbai,Ophthalmologist,15,1500,100,1,Practo
+Dr. Shreyansh Doshi,Krishna Eye Centre,mumbai,Ophthalmologist,15,1500,,,Practo
+Dr. Chaurasia Vivek Kumar,A1 Superspeciality Healthcare,mumbai,Internal Medicine,29,1000,80,21,Practo
+Dr. Balbirsingh Kohli,Apex Hospitals,mumbai,General Physician,31,1500,,,Practo
+Dr. Kaustubh Durve,Platinum Hospital,mumbai,General Physician,19,2000,100,1,Practo
+Dr. Mrinalini Singh,Elite Women and Child Care Hospital,mumbai,Internal Medicine,15,2000,100,16,Practo
+Dr. Milind Deole,Mauli Aarogyam Multi Speciality Hospital,mumbai,General Physician,30,1200,100,1,Practo
+Dr. Ajay garg,Garg Multispeciality Hospital,mumbai,General Physician,46,1500,,,Practo
+Dr. Pranav Rajnikant Shah,Thunga STH Hospital,mumbai,Anesthesiologist,18,600,,,Practo
+Dr. Madhava Karanth,Sudhanshu Hospital & ICCU,mumbai,General Physician,38,2500,,,Practo
+Dr. Ganvir Amit,Xenon Multi-speciality Hospital,mumbai,General Physician,16,1000,50,2,Practo
+Dr. Manish Arora,Sudhanshu Hospital & ICCU,mumbai,Anesthesiologist,28,2000,,,Practo
+Dr. Jain Padmesh Satishchand,A1 Superspeciality Healthcare,mumbai,Electrotherapist,23,1500,,,Practo
+Dr. Yadav Rajesh Rammurti,A1 Superspeciality Healthcare,mumbai,General Physician,19,1500,,,Practo
+Dr. Shah Arpan Rameshchandra,SRV-C Hospital,mumbai,General Physician,20,1500,100,1,Practo
+Dr. Kamwal Basant Sadilal,HCG Cancer Centre,mumbai,Internal Medicine,34,1500,,,Practo
+Dr. Amit Gawande,Sujay Hospital,mumbai,Pulmonologist,17,2000,100,,Practo
+Dr. Balaji Aironi,Surana Sethia Hospital and Research Center,mumbai,Cardiac Surgeon,26,2000,,,Practo
+Dr. Jitendra Jain,Lilavati Hospital and Research Centre,mumbai,Anesthesiologist,33,3300,,,Practo
+Dr. Viral Kothari,A1 Superspeciality Healthcare,mumbai,General Physician,15,1200,,,Practo
+Dr. Manjushri Kothekar,ART Fertility Clinics,mumbai,Infertility Specialist,22,,100,41,Practo
+Dr. Paresh C. Trivedi,Chaitanya Mindcare Centre,mumbai,Psychiatrist,31,2000,95,951,Practo
+Dr. Mehul Choksi,Lilavati Hospital and Research Centre,mumbai,Gastroenterologist,25,2200,90,302,Practo
+Dr. Vidya Patil,Arya Women's Hospital,mumbai,Gynecologist/Obstetrician,30,1500,83,153,Practo
+Dr. Swati Kanakia,Lilavati Hospital and Research Centre,mumbai,Pediatrician,37,2200,99,71,Practo
+Dr. Abhijeet Desai,Sohum Eye Care Centre- a unit of Dr Agarwals Eye Hospital,mumbai,Ophthalmologist,30,800,88,131,Practo
+Dr. Raju Sahetya,Pushpaa Hospital,mumbai,Gynecologist/Obstetrician,47,1500,95,34,Practo
+Dr. Saumil Sheth,Envision Super Speciality Retina & Eye Hospital,mumbai,Ophthalmologist,26,500,84,90,Practo
+Dr. Nishikant Borse,Insight Eye Clinic,mumbai,Ophthalmologist,36,2000,97,278,Practo
+Dr. Richa Jagtap,ART Fertility Clinics,mumbai,Infertility Specialist,25,,97,30,Practo
+Dr. Gul J. Nankani,Krishna Eye Centre,mumbai,Ophthalmologist,36,1500,98,1850,Practo
+Dr. Pooja Ghodke,IKSHA Eye Care,mumbai,Ophthalmologist,16,600,99,275,Practo
+Dr. Anil Yadav,Arohi Eye Hospital,mumbai,Ophthalmologist,24,1000,95,40,Practo
+Dr. Ashish Gupta,Sanjeevani Mamta Hospital & Research Centre,mumbai,Urologist,24,1400,93,59,Practo
+Dr. Namrita Sheregar,Nakshatra Multispeciality Hospital,mumbai,Gynecologist/Obstetrician,20,1200,97,295,Practo
+Dr. Ankesh Sahetya,Pushpaa Hospital,mumbai,Gynecologist/Obstetrician,18,1500,99,1619,Practo
+Dr. Rohann Bokdawala,Mind Solutions,mumbai,Psychiatrist,17,3000,98,792,Practo
+Dr. Bhavik Shah,SRV-C Hospital,mumbai,Ear-Nose-Throat (ENT) Specialist,20,1500,94,130,Practo
+Dr. Vishal Diddi,Surana Hospital And Research Center,mumbai,General Surgeon,20,2000,100,47,Practo
+Dr. Adip K shetty,Apricity ENT Care Center,mumbai,Ear-Nose-Throat (ENT) Specialist,18,1500,95,463,Practo
+Dr. Ritu Hinduja,"Cloudnine Fertility - IVF Centre, Malad West",mumbai,Infertility Specialist,21,1000,77,13,Practo
+Dr. Vaishali Killekar (Bhurke),Mauli Aarogyam Multi Speciality Hospital,mumbai,Gynecologist/Obstetrician,26,1000,86,29,Practo
+Dr. Amit Chakraborty,Specialty Surgical Oncology Hospital and Research,mumbai,Oncologist,19,2000,82,17,Practo
+Dr. Saket Sathe,Surana Hospital And Research Center,mumbai,Urologist,15,1500,94,69,Practo
+Dr. Ranjan Burnwal,Surana Sethia Hospital and Research Center,mumbai,Orthopedist,17,1500,75,12,Practo
+Dr. Nita A Shah,Aayush Eye Clinic - A Unit of Dr Agarwals Eye Hospital,mumbai,Ophthalmologist,45,1200,87,145,Practo
+Dr. Divya Ahuja,Mangal Anand Hospital,mumbai,Orthopedist,18,1600,94,150,Practo
+Dr. Harish Rai,Drishti Eye Care Centre,mumbai,Ophthalmologist,34,1000,81,22,Practo
+Dr. Haresh H Manglani,Sudhanshu Hospital & ICCU,mumbai,Orthopedist,37,2000,71,16,Practo
+Dr. Darshana Thakur,Platinum Hospital,mumbai,Diabetologist,16,2000,75,8,Practo
+Dr. Nilesh Sureshchandra Chordiya,SSO Cancer Clinic,mumbai,General Surgeon,26,2000,98,243,Practo
+Dr. Hrishikesh Pai,Bloom IVF Centre,mumbai,Gynecologist/Obstetrician,43,2000,100,54,Practo
+Dr. Suraj Suchak,Lilavati Hospital and Research Centre,mumbai,Urologist,23,2200,97,300,Practo
+Dr. Sonia G. Nankani,Krishna Eye Centre,mumbai,Ophthalmologist,35,1500,98,878,Practo
+Dr. Mukesh Shah,Surana Hospital And Research Center,mumbai,General Surgeon,43,1200,91,23,Practo
+Dr. Samir Baghadia,Surana Hospital And Research Center,mumbai,Urologist,19,2000,79,19,Practo
+Dr. Shashank Shah,Lilavati Hospital and Research Centre,mumbai,General Surgeon,37,3300,96,55,Practo
+Dr. Aditi Agrawal,A1 Superspeciality Healthcare,mumbai,General Surgeon,21,1000,95,151,Practo
+Dr. Shradha Goel,Arohi Eye Hospital,mumbai,Ophthalmologist,24,1500,99,664,Practo
+Dr. Vicky Jain,Surana Sethia Hospital and Research Center,mumbai,Plastic Surgeon,20,2000,98,131,Practo
+Dr. Adita Agrawal,Mindsight Clinic,mumbai,Psychiatrist,17,2000,85,45,Practo
+Dr. Radhika Sheth,Luma Fertility Clinic,mumbai,Infertility Specialist,24,2000,99,324,Practo
+Dr. Nandita P Palshetkar,Bloom IVF Centre,mumbai,Infertility Specialist,36,2000,84,49,Practo
+Dr. Kamran Khan,Specialty Surgical Oncology Hospital and Research,mumbai,General Surgeon,35,4000,95,77,Practo
+Dr. Jay Goyal,Surya Eye,mumbai,Ophthalmologist,21,1200,92,38,Practo
+Dr. Agraja Tripathi,Platinum Hospital,mumbai,General Surgeon,18,500,100,12,Practo
+Dr. Salaah Qureshi,Bluebell Hospital,mumbai,Internal Medicine,23,1500,100,30,Practo
+Dr. Sachin V Shah,Vin-R Eye Care Centre,mumbai,Ophthalmologist,27,500,80,44,Practo
+Dr. Pradeep Moonot,Lilavati Hospital and Research Centre,mumbai,Orthopedist,29,3300,100,18,Practo
+Dr. Himanshu Mehta,NAYANSHAKTI VISSION EYE HOSPITAL,mumbai,Ophthalmologist,41,1500,91,549,Practo
+Dr. Prashant Kini,Platinum Hospital,mumbai,,16,2000,98,45,Practo
+Dr. Navina Singh,Birla Fertility & IVF,mumbai,Infertility Specialist,16,1500,100,2,Practo
+Dr. Suresh V Rang,Lilavati Hospital and Research Centre,mumbai,Internal Medicine,54,3300,80,2,Practo
+Dr. Yuvaraja S Shetty,Elite Women and Child Care Hospital,mumbai,Pediatrician,19,1500,99,510,Practo
+Dr. Manish Shantilal Shah,Dr Agarwals Health Care,mumbai,Ophthalmologist,34,1500,88,7,Practo
+Dr. Dhiraj Sonawane,Surana Sethia Hospital and Research Center,mumbai,Spine Surgeon,20,1000,100,1,Practo
+Dr. Mihirgiri I Goswami,Platinum Hospital,mumbai,Orthopedist,25,2000,84,38,Practo
+Dr. Kapil Mohan,Aditi Hospital,mumbai,Spine Surgeon,23,1500,92,25,Practo
+Dr. Sanjay Singh,Mangal Anand Hospital,mumbai,Orthopedist,21,1600,89,18,Practo
+Dr. B.R. Ramesh Rao,Sanjeevani Mamta Hospital & Research Centre,mumbai,Nephrologist,45,3000,89,47,Practo
+Dr. Aditya Patil,Surana Sethia Hospital and Research Center,mumbai,Neurosurgeon,17,2000,93,14,Practo
+Dr. Sheetal Pandey Tejwani,Veda Fertility And Urology Care,mumbai,Gynecologist/Obstetrician,17,1000,96,985,Practo
+Dr. Shailendra Patil,Aditi Hospital,mumbai,Orthopedist,26,2000,97,314,Practo
+Dr. Shweta Inamdar Kulkarni,New Delhi Center For Sight Limited,mumbai,Ophthalmologist,18,500,100,25,Practo
+Dr. Swapnil Tople,Surana Sethia Hospital and Research Center,mumbai,Urologist,18,1500,65,40,Practo
+Dr. Cherry Chetan Shah,Lilavati Hospital and Research Centre,mumbai,Gynecologist/Obstetrician,50,2200,,,Practo
+Dr. Ryan DSouza,DR AGARWAL EYE HOSPITAL - CEDS,mumbai,Ophthalmologist,31,2000,100,855,Practo
+Dr. Malika Bharadwaj,Mallika Hospital,mumbai,Pediatrician,16,1000,,,Practo
+Dr. Seema Behl,Arohi Eye Hospital,mumbai,Ophthalmologist,35,1500,94,67,Practo
+Dr. Yessu Krishna Shetty,Thunga STH Hospital,mumbai,Ear-Nose-Throat (ENT) Specialist,18,1000,96,79,Practo
+Dr. Haresh Asnani,Aayush Eye Clinic - A Unit of Dr Agarwals Eye Hospital,mumbai,Ophthalmologist,43,1200,100,10,Practo
+Dr. Satyen Mehta,Surana Sethia Hospital and Research Center,mumbai,Spine Surgeon,26,2500,97,512,Practo
+Dr. Abhishek Karadkar,SRV-C Hospital,mumbai,Spine And Pain Specialist,18,1500,100,1,Practo
+Dr. Saumil Kothari,Bombay City Eye Institute & Research Center,mumbai,Ophthalmologist,24,2500,100,3,Practo
+Dr. Abhay Agrawal,Apex Superspeciality Hospitals,mumbai,Bariatric Surgeon,31,2000,100,2,Practo
+Dr. Ila Tyagi,SRV-C Hospital,mumbai,Reproductive Endocrinologist (Infertility),34,1500,76,37,Practo
+Dr. Fahad Afzal S,Mallika Hospital,mumbai,Oncologist,17,2000,100,1,Practo
+Dr. Trupti Barchha,Xenon Multi-speciality Hospital,mumbai, Homoeopath,16,1500,100,1,Practo
+Dr. Swati Kapadia,Thunga STH Hospital,mumbai,Gynecologist/Obstetrician,36,1800,93,15,Practo
+Dr. Amol Suresh Patil,Aum Superspeciality Hospital,mumbai,General Surgeon,25,1500,100,,Practo
+Dr. Shruti Parikh,"Cloudnine Fertility - IVF Centre, Malad West",mumbai,Infertility Specialist,18,1300,99,222,Practo
+Dr. Parag Vibhakar,Mauli Aarogyam Multi Speciality Hospital,mumbai,Plastic Surgeon,20,1000,97,58,Practo
+Dr. Bhushan Ghodke,IKSHA Eye Care,mumbai,Ophthalmologist,18,600,99,499,Practo
+Dr. Hemant A Jain,Mallika Hospital,mumbai,GastroIntestinal Surgeon,21,1500,100,1,Practo
+Dr. Vinod Dubey,A1 Superspeciality Healthcare,mumbai,Orthopedist,16,2000,100,1,Practo
+Dr. Nikhil Gawde,Surana Sethia Hospital and Research Center,mumbai,Laparoscopic Surgeon,17,1000,100,9,Practo
+Dr. Abhishek M Shah,Surana Hospital And Research Center,mumbai,Urologist,18,1500,50,2,Practo
+Dr. Rajeev Punjabi,Thunga STH Hospital,mumbai,Gynecologist/Obstetrician,30,2000,67,3,Practo
+Dr. Raju I Gujrathi,A1 Superspeciality Healthcare,mumbai,Pediatrician,26,1500,50,2,Practo
+Dr. Samir Pilankar,Sujay Hospital,mumbai,Orthopedist,31,2000,,,Practo
+Dr. Amandeep Gujral,Mangal Anand Hospital,mumbai,Spine Surgeon,17,1600,100,75,Practo
+Dr. Vinod R Goyal,Surya Eye Institute & Research Center,mumbai,Ophthalmologist,48,800,38,8,Practo
+Dr. Modi Kruti Harshad,Surya Eye,mumbai,Ophthalmologist,22,2000,,,Practo
+Dr. Chandranath Tiwari,Platinum Hospital,mumbai,Neurosurgeon,24,500,100,7,Practo
+Dr. Sunil Arora,Mangal Anand Hospital,mumbai,Orthopedist,41,1600,92,37,Practo
+Dr. Kshitij Dhaval Shah,Sujay Hospital,mumbai,Ear-Nose-Throat (ENT) Specialist,23,2000,,,Practo
+Dr. Alok Kumar Shaligram Pandey,Lilavati Hospital and Research Centre,mumbai,Orthopedist,22,2200,100,10,Practo
+Dr. Manali Parmar,Elite Women and Child Care Hospital,mumbai,Gynecologist/Obstetrician,26,2000,67,2,Practo
+Dr. Aaditya D Kashikar,Lilavati Hospital and Research Centre,mumbai,Spine Surgeon,21,2200,,,Practo
+Dr. Mangesh Kohale,Lilavati Hospital and Research Centre,mumbai,Cardiac Surgeon,24,2200,100,4,Practo
+Dr. Krishna Prasad Irniraya,Lilavati Hospital and Research Centre,mumbai,Cardiothoracic Surgeon,33,3300,100,8,Practo
+Dr. Sharad Sheth,Mallika Hospital,mumbai,Nephrologist,50,1200,93,13,Practo
+Dr. Tanuja Uchil,Oma Hospital - A Women's Speciallty Hospital,mumbai,Gynecologist/Obstetrician,29,2000,93,1041,Practo
+Dr. Abhilash Dhruv,Thunga STH Hospital,mumbai,Spine Surgeon,20,2500,50,2,Practo
+Dr. Abhishek Shirkande,Surana Sethia Hospital and Research Center,mumbai,Nephrologist,20,1500,74,19,Practo
+Dr. Gangurde Pranil Bhalchandra,A1 Superspeciality Healthcare,mumbai,Cardiologist,18,2000,,,Practo
+Dr. Dhanashree Mane Dhabalia,IKSHA Eye Care,mumbai,Ophthalmologist,18,600,100,44,Practo
+Dr. Ram Chaddha,Lilavati Hospital and Research Centre,mumbai,Orthopedist,41,5400,100,9,Practo
+Dr. Akash Surana,Cloudnine Fertility - IVF Centre,mumbai,Infertility Specialist,18,1000,98,40,Practo
+Dr. Sanket Shetty,Thunga STH Hospital,mumbai,Plastic Surgeon,16,1500,100,12,Practo
+Dr. Siddharth Sheth,Mallika Hospital,mumbai,Cardiologist,24,2000,50,1,Practo
+Dr. Vinaykumar Thati,Lilavati Hospital and Research Centre,mumbai,General Surgeon,25,2200,100,1,Practo
+Dr. Pratik Aggarwal,Sanjeevani Mamta Hospital & Research Centre,mumbai,Ophthalmologist,15,1200,,,Practo
+Dr. R V Paratey,Mauli Aarogyam Multi Speciality Hospital,mumbai,Pediatrician,50,1000,,,Practo
+Dr. Suresh Rao,Sanjeevani Mamta Hospital & Research Centre,mumbai,General Surgeon,48,1000,100,1,Practo
+Dr. Ladkat Kiran M,Mangal Anand Hospital,mumbai,Orthopedist,23,1600,97,29,Practo
+Dr. Swagata Sarkar,Smart Vision Eye Centre,mumbai,Ophthalmologist,26,1500,100,1,Practo
+Dr. Uday Pawar,A1 Superspeciality Healthcare,mumbai,General Surgeon,25,3000,100,38,Practo
+Dr. Anuj Bhasin,Platinum Hospital,mumbai,Cardiologist,28,2000,82,11,Practo
+Dr. Satish Rao,Lilavati Hospital and Research Centre,mumbai,General Surgeon,33,3300,100,1,Practo
+Dr. Gautam Nadkarni,Surana Sethia Hospital and Research Center,mumbai,General Surgeon,29,1000,88,6,Practo
+Dr. Karthik Subramanian,Platinum Hospital,mumbai,Orthopedist,16,1000,67,9,Practo
+Dr. Jigar Hemant Maniar,Aditya Eye Clinic,mumbai,Ophthalmologist,28,800,100,3,Practo
+Dr. Sonia Jain Kothari,Bombay City Eye Institute & Research Center,mumbai,Ophthalmologist,24,2500,,,Practo
+Dr. Zahir Abbas Merchant,Mallika Hospital,mumbai,Spine Surgeon,17,1500,95,44,Practo
+Dr. Hemakshi Mehta,Apex Superspeciality Hospitals,mumbai,Gynecologist/Obstetrician,15,1500,100,1,Practo
+Dr. Meghal M. Goswami,Elite Women and Child Care Hospital,mumbai,Gynecologist/Obstetrician,19,2000,100,11,Practo
+Dr. Sonali Tawde,Sudhanshu Hospital & ICCU,mumbai,Infertility Specialist,23,2000,71,7,Practo
+Dr. Arvind Dhar,Mauli Aarogyam Multi Speciality Hospital,mumbai,Pediatrician,43,1200,,,Practo
+Dr. Kamal Mudaliyar,Elite Women and Child Care Hospital,mumbai,Pediatrician,18,2000,,,Practo
+Dr. Siddharth Vinod Lakhani,SRV-C Hospital,mumbai,Nephrologist,17,2000,93,28,Practo
+Dr. Bipin A Ghanghurde,Mangal Anand Hospital,mumbai,Orthopedist,18,1600,100,1,Practo
+Dr. M T Khan,SRV-C Hospital,mumbai,Orthopedist,18,1500,96,57,Practo
+Dr. Asif Bhojani,Mallika Hospital,mumbai,Internal Medicine,24,1000,100,4,Practo
+Dr. Rishit Harbada,Garg Multispeciality Hospital,mumbai,Nephrologist,16,2000,86,7,Practo
+Dr. Vijay Sharnangat,Surana Hospital And Research Center,mumbai,Oncologist,22,2000,,,Practo
+Dr. Mahore Amit,Surana Hospital And Research Center,mumbai,Neurosurgeon,26,2000,91,11,Practo
+Dr. Sheetal Mohite,Mangal Anand Hospital,mumbai,Orthopedist,27,1600,89,27,Practo
+Dr. Ajit Bhusagare Reddy,Mangal Anand Hospital,mumbai,Orthopedist,22,1500,100,4,Practo
+Dr. Anant Nagrale,Apex MultiSpeciality Hospital,mumbai,Internal Medicine,22,1000,,,Practo
+Dr. Amit Bhasin,Prive Luxe Skin and Wellness,delhi,Dermatologist,17,1200,91,121,Practo
+Dr. Chanchal Choudhary,La Fameux Derma Skin And Hair Clinic,delhi,Dermatologist,22,800,90,192,Practo
+Dr. Gurkeerat Singh,D-32 The Dental Centre,delhi,Dentist,31,500,94,174,Practo
+Dr. Geetanjali Marya,Marya's Dental and Implant Centre,delhi,Dentist,39,800,97,117,Practo
+Dr. Kapil Garg,City Dental,delhi,Dentist,21,300,98,431,Practo
+Dr. Payal Gupta,Skin and Bones Clinic,delhi,Dermatologist,30,1000,96,479,Practo
+Dr. Akshay Midha,Dr Akshay Midha - Dr Ved Prakash Memorial Dental Clinics,delhi,Dentist,24,500,99,100,Practo
+Dr. Aamir Siddiqui,Dr. Siddiqui's Skin Clinic,delhi,Dermatologist,18,1200,96,970,Practo
+Dr. Karan Marya,Marya's Dental and Implant Centre,delhi,Dentist,43,800,96,124,Practo
+Dr. Rakesh,Rakshaa Aesthetics,delhi,Dermatologist,15,1500,92,216,Practo
+Dr. Deepali Bhardwaj,Centre For Skin and Hair Pvt Ltd,delhi,Dermatologist,20,1700,88,350,Practo
+Dr. Amit Baranwal,Dental Cure Dental N Implant Centre,delhi,Dentist,27,500,95,173,Practo
+Dr. Kanu Verma,Aastha Medicare,delhi,Dermatologist,24,800,92,338,Practo
+Dr. Radhika Sahni,Dr. Sahni's Dental Clinic,delhi,Dentist,30,1000,98,355,Practo
+Dr. Pankaj Rooprai,Dentistry Futura & Implant Centre,delhi,Dentist,33,500,87,30,Practo
+Dr. Rachna Solanki,Artize Clinic,delhi,Dentist,20,400,100,1184,Practo
+Dr. Ashu Gupta,Kamal Dental Clinic,delhi,Dentist,30,1000,95,57,Practo
+Dr. Ajay Kumar Singh,Tirupati Dental,delhi,Dentist,18,700,93,27,Practo
+Dr. Chiranjiv Chhabra,Alive Wellness Clinics,delhi,Dermatologist,36,1500,61,28,Practo
+Dr. Sachin Bansal,S.R Dental Implants & Braces Centre,delhi,Dentist,24,400,99,499,Practo
+Dr. Vinay Singh,Vibrance Wellness Vista,delhi,Dermatologist,31,2000,91,803,Practo
+Dr. Amrendra kumar,Dermaclinix,delhi,Dermatologist,19,2000,93,1221,Practo
+Dr. Manisha Chopra,Derma Plus,delhi,Dermatologist,28,1200,96,449,Practo
+Dr. Tapesh Sharma,Maxdermcare Skin And Laser Private Limited,delhi,Dermatologist,28,2000,97,3009,Practo
+Dr. Nidhi Bansal,S.R Dental Implants & Braces Centre,delhi,Dentist,22,400,99,246,Practo
+Dr. Prachi Gupta,Twacha Skin Clinic,delhi,Dermatologist,18,1500,87,22,Practo
+Dr. Mudasir Khan,Lush Skin and Hair Clinic,delhi,Cosmetologist,32,900,92,154,Practo
+Dr. Sunakshi Singh,Advance Dermatology & Hair Transplant Clinic,delhi,Dermatologist,17,1500,91,190,Practo
+Dr. Urvashi Rooprai,Dentistry Futura & Implant Centre,delhi,Dentist,28,500,,,Practo
+Dr. Kavish Chouhan,Dermaclinix,delhi,Dermatologist,19,2000,91,1402,Practo
+Dr. Sumit Solanki,Artize Clinic,delhi,Dentist,17,500,100,110,Practo
+Dr. Namrata Ghai,Sunshine Skin & Hair Clinic,delhi,Dermatologist,25,1000,86,74,Practo
+Dr. Sourabh Nagpal,Matrix Dental & Skin Lounge,delhi,Dentist,21,500,98,1697,Practo
+Dr. Prateek Sondhi,Derma Circles: Doctors from AIIMS,delhi,Dermatologist,17,1200,96,895,Practo
+Dr. Manish Gupta,Kamal Dental Clinic,delhi,Dentist,32,1000,98,431,Practo
+Dr. Naren Prakash,"Uncover Laser, Skin & Hair Clinic",delhi,Dermatologist,17,1000,98,111,Practo
+Dr. Yachna Grover,Netrayatan Dr. Grovers Centre For Eye Care & Infertility,delhi,Infertility Specialist,34,1500,97,805,Practo
+Dr. Rashmi Shriya,MASSH-Minimal Access Smart Surgery Hospital,delhi,Gynecologist/Obstetrician,17,1000,100,7,Practo
+Dr. Vishal Grover,Netrayatan Dr. Grovers Centre For Eye Care & Infertility,delhi,Ophthalmologist,36,1500,97,2359,Practo
+Dr. Yash Bhatia,Mata Roop Rani Maggo Hospital,delhi,Orthopedist,15,800,75,12,Practo
+Dr. Ajit Kumar Talukdar,Jeewan Hospital Gate No. 1,delhi,Internal Medicine,41,700,100,1,Practo
+Dr. Rajeev Gupta,Yatharth Super Speciality Hospital,delhi,Internal Medicine,34,1200,94,76,Practo
+Dr. Himanshu Shekhar,SCI International Hospital,delhi,General Physician,20,1000,83,23,Practo
+Dr. Rakesh Sharma,Jeewan Mala Hospital,delhi,General Physician,38,900,83,11,Practo
+Dr. Pankaj Kumar,Jeewan Mala Hospital,delhi,General Physician,23,900,78,9,Practo
+Dr. S K Bakshi,Aashlok Hospital,delhi,General Physician,44,1500,81,64,Practo
+Dr. Vivek Mittal,Metro Hospital and Cancer Institute,delhi,Cardiologist,29,1500,96,142,Practo
+Dr. Shubhra Gupta,Daffodils By Artemis At Spring Meadows,delhi,Internal Medicine,20,1000,91,34,Practo
+Dr. Aditya Sharda,Park Hospital,delhi,General Physician,50,800,71,7,Practo
+Dr. Chetan Kumar Gupta,Cronus Multispeciality Hospital,delhi,General Physician,27,800,66,60,Practo
+Dr. Chandan Bhattacharya,ORL International Hospital,delhi,General Physician,37,1000,33,6,Practo
+Dr. Alok Kumar Mishra,Park Hospital,delhi,General Physician,28,1000,,,Practo
+Dr. Mohan Kalra,Daffodils By Artemis At Spring Meadows,delhi,Internal Medicine,46,1000,81,15,Practo
+Dr. Kamleshwar Prasad Sinha,Jeewan hospital gate no 2,delhi,General Physician,30,800,50,2,Practo
+Dr. Dheeraj Shamsukha,MGS Super Speciality Hospital,delhi,General Physician,18,1000,50,,Practo
+Dr. Sujeet Kaur Tuteja,Park Hospital,delhi,General Physician,25,1000,50,1,Practo
+Dr. Pooja Goswami,Park Hospital,delhi,General Physician,22,1000,67,2,Practo
+Dr. S.K. Tyagi,Tyagi Nursing Home,delhi,Internal Medicine,43,1500,74,34,Practo
+Dr. Anil Kumar Lohia,Park Hospital,delhi,Radiologist,20,1000,,,Practo
+Dr. K.Senthil Kumar,Tooth N Care Dental Clinic,chennai,Dentist,31,200,99,435,Practo
+Dr. B J Barun,Dr. Barun's Multispeciality Dental Centre,chennai,Dentist,22,300,98,1695,Practo
+Dr. M.Srikanth,Smile Solutions Family Dentistry,chennai,Dentist,25,400,98,1942,Practo
+Dr. Kiruthika Asokan,Family Clinic,chennai,Dentist,22,450,100,1196,Practo
+Dr. Poornima Srikanth,Smile Solutions Family Dentistry,chennai,Dentist,21,300,96,74,Practo
+Dr. Nandhini Elumalai,SRM Prime Hospital,chennai,Gynecologist/Obstetrician,15,600,100,13,Practo
+Dr. A Gunasekaran,Neuro Life Hospital,chennai,Neurologist,33,600,94,107,Practo
+Dr. Jeysel Suraj,Suraj Hospital,chennai,General Physician,25,300,90,28,Practo
+Dr. Sandhya S,Frontier Lifeline Hospital,chennai,Cardiologist,17,1000,96,25,Practo
+Dr. A Joseph Navaseelan,SRM Prime Hospital,chennai,General Physician,50,500,100,13,Practo
+Dr. Sathish Manivel,VS Hospitals,chennai,Plastic Surgeon,27,750,100,6,Practo
+Dr. Srikanth Muralikrishnan,Kannapa Memorial Hospital,chennai,General Physician,30,800,100,3,Practo
+Dr. A. Srinivasan,Narayanaa Hospital,chennai,General Physician,40,600,100,2,Practo
+Dr. Chitra R,CFC Multispeciality Hospital,chennai,General Physician,26,1000,67,3,Practo
+Dr. Sam Jacob,Frontier Lifeline Hospital,chennai,Cardiologist,17,1000,,,Practo
+Dr. Sathyanarayan S A K V,Billroth Hospitals,chennai,General Physician,32,800,100,1,Practo
+Dr. Mathu Soothanan,CFC Multispeciality Hospital,chennai,General Physician,22,1000,100,1,Practo
+Dr. Hari Prasad,Kannapa Memorial Hospital,chennai,General Physician,21,800,,,Practo
+Dr. Thirumanikandan,Kannapa Memorial Hospital,chennai,Oncologist,16,800,,,Practo
+Dr. Senthil Kumar,CFC Multispeciality Hospital,chennai,General Physician,22,1000,,,Practo
+Dr. Rajasekaran M,CFC Multispeciality Hospital,chennai,General Physician,17,1000,,,Practo
+Dr. Ravindra Kumar,SRM Prime Hospital,chennai,General Physician,26,600,,,Practo
+Dr. Natesan C,Sooriya Hospital - Vadapalani,chennai,Internal Medicine,59,500,100,3,Practo
+Dr. Venkatraman S,Sooriya Hospital - Vadapalani,chennai,General Physician,47,1400,,,Practo
+Dr. Suresh Kumar D,SRM Prime Hospital,chennai,Infectious Diseases Physician,29,750,67,3,Practo
+Dr. Praveen Kumar Reddy,SRM Prime Hospital,chennai,General Physician,16,500,100,3,Practo
+Dr. Santhosh Sampath,Dr. Rela Institute & Medical Centre,chennai,General Physician,19,600,,,Practo
+Dr. Nancy Glory,Narayanaa Hospital,chennai,Pulmonologist,27,700,100,1,Practo
+Dr. Tharun Ganapathy,Murugan Hospitals,chennai,Gynecologist/Obstetrician,18,950,,,Practo
+Dr. J Vinaignan,Sooriya Hospital - Vadapalani,chennai,Ear-Nose-Throat (ENT) Specialist,26,800,87,14,Practo
+Dr. Satish M Rao,Sooriya Hospital - Vadapalani,chennai,Nephrologist,46,1100,88,15,Practo
+Dr. R Kannan,Prime Indian Hospitals,chennai,General Surgeon,31,500,89,62,Practo
+Dr. U. Sanjay,Lifeline Rigid Hospitals,chennai,Ear-Nose-Throat (ENT) Specialist,35,600,96,351,Practo
+Dr. S.S. Kumar,Astra Ortho N Spine Center,chennai,Spine Surgeon,33,600,96,889,Practo
+Dr. C P Sreekumar,Sooriya Hospital - Vadapalani,chennai,General Surgeon,48,800,100,1,Practo
+Dr. R.P.Shanmugam,RPS Hospitals,chennai,Gastroenterologist,56,300,95,152,Practo
+Dr. Neelakandan,Dr. Rela Institute & Medical Centre,chennai,Urologist,19,800,92,191,Practo
+Dr. G. Vezhaventhan,Saanvi Fertility Centre Urology and Stone Centre,chennai,Urologist,30,500,96,359,Practo
+Dr. Selva Seetha Raman,Prime Indian Hospitals,chennai,Plastic Surgeon,23,800,94,36,Practo
+Dr. J Jagadeesan,Chakra Critical Care Centre and Hospitals,chennai,Orthopedist,32,600,94,34,Practo
+Dr. A.Sivakumar,VS Hospitals,chennai,Plastic Surgeon,33,1000,97,586,Practo
+Dr. G Kumaragurubaran,Billroth Hospitals,chennai,Laparoscopic Surgeon,29,400,89,76,Practo
+Dr. Sadhana Vezhaventhan,Saanvi Fertility Centre Urology and Stone Centre,chennai,Infertility Specialist,27,500,97,296,Practo
+Dr. Tarakeshwari M,Billroth Hospitals,chennai,Gastroenterologist,23,500,84,63,Practo
+Dr. Varadarajulu Reddy Gadi,Billroth Hospitals,chennai,Pediatrician,55,500,96,52,Practo
+Dr. Omer Sheriff,Meridian Hospital,chennai,Orthopedist,26,400,93,45,Practo
+Dr. K. Velmurugan,Prime Indian Hospitals,chennai,Orthopedist,24,500,94,77,Practo
+Dr. P Krishnamma,Noble Hospital,chennai,Gynecologist/Obstetrician,51,500,83,24,Practo
+Dr. Prof. S Sundar,VS Hospitals,chennai,Orthopedist,34,1000,89,18,Practo
+Dr. Lakshmi Devarajan,Billroth Hospitals,chennai,Gynecologist/Obstetrician,54,650,81,20,Practo
+Dr. Jyotirmaya Dash,Sooriya Hospital - Nungambakkam,chennai,Cardiologist,28,1200,100,99,Practo
+Dr. P Sathish,Sooriya Hospital - Vadapalani,chennai,Laparoscopic Surgeon,33,1000,100,2,Practo
+Dr. Lakshmy S,Leela Eye Clinic,chennai,Ophthalmologist,29,600,100,18,Practo
+Dr. Rajiv Sreekumar,Sooriya Hospital - Vadapalani,chennai,Gynecologist/Obstetrician,19,800,100,,Practo
+Dr. Prof D Suresh Kumar,VS Hospitals,chennai,Oncologist,27,1000,88,7,Practo
+Dr. J Pablo Neruda,Billroth Hospitals,chennai,Plastic Surgeon,30,500,91,10,Practo
+Dr. S.Samundi Sankari,Srushti Fertility Centre & Women's Hospital,chennai,Infertility Specialist,54,1000,93,1103,Practo
+Dr. Srikanth R,Leela Eye Clinic,chennai,Ophthalmologist,20,700,99,566,Practo
+Dr. Kumaran,Sooriya Hospital - Vadapalani,chennai,Endocrine Surgeon,29,1400,88,4,Practo
+Dr. Barani Rathinavelu,VS Hospitals,chennai,Orthopedist,23,500,75,4,Practo
+Dr. Asokan P,Vasan Eye Care Hospital,chennai,Ophthalmologist,42,400,88,7,Practo
+Dr. T. Praveen Kumar,RPS Hospitals,chennai,Urologist,29,600,82,67,Practo
+Dr. T Aarthi Latha,Meridian Hospital,chennai,Pediatrician,24,300,100,1,Practo
+Dr. Senthil Kumar V S,Billroth Hospitals,chennai,Internal Medicine,26,400,100,10,Practo
+Dr. Divya Sivaraman,Srushti Fertility Centre & Women's Hospital,chennai,Gynecologist/Obstetrician,23,800,95,236,Practo
+Dr. Venugopal,Sooriya Hospital - Vadapalani,chennai,Pulmonologist,47,1800,100,3,Practo
+Dr. Tarun J George,SRM Prime Hospital,chennai,Gastroenterologist,17,700,99,80,Practo
+Dr. B. Padam Kumar,Billroth Hospital,chennai,General Surgeon,15,700,99,148,Practo
+Dr. Srinath Vijayashekaran,Dr. Rela Institute & Medical Centre,chennai,Cardiothoracic Surgeon,32,800,100,1,Practo
+Dr. L.Padmanabhan,Billroth Hospitals,chennai,Oncologist,38,750,100,1,Practo
+Dr. Vivekanandan,RPS Hospitals,chennai,General Surgeon,29,500,67,3,Practo
+Dr. Saritha Damodaran,Billroth Hospitals,chennai,Oncologist,26,500,98,49,Practo
+Dr. Balaji P S,Billroth Hospital,chennai,Orthopedist,25,600,100,3,Practo
+Dr. Venkatesh M P,Dr Kumar's Speciality Hospital,chennai,Pediatrician,30,600,97,59,Practo
+Dr. Maheswari D,Oasis Fertility,chennai,Infertility Specialist,19,,100,5,Practo
+Dr. M. Balu David,VS Hospitals,chennai,Oncologist,40,500,100,5,Practo
+Dr. S. Nithya,VS Hospitals,chennai,Oncologist,15,2000,97,116,Practo
+Dr. B.Pasupathy,RPS Hospitals,chennai,Orthopedist,36,500,93,13,Practo
+Dr. G Sudhir,Sooriya Hospital - Vadapalani,chennai,Spine Surgeon,19,1300,100,1,Practo
+Dr. Rajini,Billroth Hospitals,chennai,Infertility Specialist,37,1000,75,8,Practo
+Dr. Sathyadharan. P,Astra Speciality Hospital,chennai,Orthopedist,22,600,96,477,Practo
+Dr. Senthil Kumar R,SRM Prime Hospital,chennai,Oncologist,21,750,67,3,Practo
+Dr. V. S. Ajay Chandrassekar,Noble Hospital,chennai,Oncologist,28,600,89,9,Practo
+Dr. N. Malathy,V S Hospitals,chennai,Nephrologist,33,1000,96,24,Practo
+Dr. Suresh Sankarasubbaiyan,VS Hospitals,chennai,Nephrologist,35,1000,85,8,Practo
+Dr. Kaushik,Vasan Eye Care Hospital - Ambattur,chennai,Ophthalmologist,27,400,100,1,Practo
+Dr. V Singaravadivelu,Noble Hospital,chennai,Orthopedist,38,750,96,47,Practo
+Dr. S. Arulprakash,SRM Prime Hospital,chennai,Gastroenterologist,25,800,98,217,Practo
+Dr. Ilayaraja Uthirapathy,Billroth Hospitals,chennai,Cardiologist,31,400,95,21,Practo
+Dr. Visweswar Reddy,SRM Prime Hospital,chennai,Nephrologist,30,750,90,10,Practo
+Dr. Visweswar Reddy,SRM Prime Hospital,chennai,Nephrologist,30,750,90,10,Practo
+Dr. Suresh Anantharaj,Dr. Rela Institute & Medical Centre,chennai,Pulmonologist,35,1000,100,10,Practo
+Dr. K Subramaniyan,SRM Prime Hospital,chennai,Neurologist,36,800,100,4,Practo
+Dr. Balaji Ravilla Baskara,Noble Hospital,chennai,General Surgeon,27,250,97,93,Practo
+Dr. Vinodh Kumar P,Billroth Hospitals,chennai,Cardiologist,21,450,94,16,Practo
+Dr. M.S.Kalyan Kumar,Kannapa Memorial Hospital,chennai,General Surgeon,18,800,96,50,Practo
+Dr. Nancy Anitha,Birla Fertility & IVF,chennai,Infertility Specialist,17,800,84,7,Practo
+Dr. Balan Ashok Kumar,Billroth Hospitals,chennai,Ear-Nose-Throat (ENT) Specialist,16,450,100,4,Practo
+Dr. Palaniappan,SRM Prime Hospital,chennai,Gynecologist/Obstetrician,34,600,100,2,Practo
+Dr. Padma Priya B,Sri Srinivasa Hospital,chennai,Gynecologist/Obstetrician,22,500,86,22,Practo
+Dr. S R Subrammaniyan,Billroth Hospitals,chennai,Vascular Surgeon,42,1000,92,11,Practo
+Dr. Agni Raj R,Sri Srinivasa Hospital,chennai,Orthopedist,26,800,85,12,Practo
+Dr. Chithra,Lakshya Fertility Centre,chennai,Gynecologist/Obstetrician,28,500,93,256,Practo
+Dr. Sivaraj S M,Billroth Hospitals,chennai,GastroIntestinal Surgeon,30,550,77,13,Practo
+Dr. M.Subramanian,Billroth Hospitals,chennai,GastroIntestinal Surgeon,47,650,100,13,Practo
+Dr. Thejaswi N Marla,Sooriya Hospital - Vadapalani,chennai,Cardiac Surgeon,18,1000,100,2,Practo
+Dr. Sankar Narayanan M L,Billroth Hospitals,chennai,GastroIntestinal Surgeon,18,550,100,6,Practo
+Dr. Ganesh V,Vasan Eye Care,chennai,Ophthalmologist,15,400,100,2,Practo
+Dr. Manjula S,Deepam Hospitals,chennai,Gynecologist/Obstetrician,38,650,86,27,Practo
+Dr. Kalpana Bharani Kumar,Meridian Hospital,chennai,Pediatrician,27,500,98,295,Practo
+Dr. N. Deen Mohamed Ismail,Lifeline Rigid Hospitals,chennai,Orthopedist,40,900,97,118,Practo
+Dr. Dinesh Mohan Choudary,Meridian Hospital,chennai,Orthopedist,18,500,93,14,Practo
+Dr. Arun Prakash,Murugan Hospitals,chennai,Orthopedist,22,400,91,45,Practo
+Dr. Karthik Surya,CFC Multispeciality Hospital,chennai,Pediatric Cardiologist,20,1000,,,Practo
+Dr. Arulalan M,SRM Prime Hospital,chennai,Ear-Nose-Throat (ENT) Specialist,16,600,100,3,Practo
+Dr. Priya,Billroth Hospitals,chennai,Pediatrician,26,550,100,1,Practo
+Dr. Lalitha Deivanayagam,Vasan Eye Care Hospital - Ambattur,chennai,Ophthalmologist,33,400,,,Practo
+Dr. Ananthasamy,Deepam Hospitals,chennai,General Surgeon,39,800,100,2,Practo
+Dr. Ilamparuthi,Lifeline Rigid Hospitals,chennai,Urologist,36,1000,100,25,Practo
+Dr. Gobalakichenin M,V S Hospitals,chennai,General Surgeon,32,1000,100,1,Practo
+Dr. Anuradha Sridhar,Frontier Lifeline Hospital,chennai,Pediatric Cardiologist,28,1000,100,1,Practo
+Dr. Rajkumar Rathinasamy,Suraj Hospital,chennai,Gastroenterologist,26,800,87,59,Practo
+Dr. Sarrath Rathnaraajan S,Sooriya Hospital - Nungambakkam,chennai,Ear-Nose-Throat (ENT) Specialist,15,1000,100,8,Practo
+Dr. Radhiga G,Billroth Hospital,chennai,Gynecologist/Obstetrician,23,600,100,2,Practo
+Dr. Rajmohan V M,Prime Indian Hospitals,chennai,Plastic Surgeon,27,500,100,1,Practo
+Dr. Jayanth Vijayakumar,Laser and Laparoscopic Hospital,chennai,Vascular Surgeon,19,800,98,722,Practo
+Dr. Aswani Latha,Meridian Hospital,chennai,Internal Medicine,17,500,,,Practo
+Dr. R Premkumar,VS Hospitals,chennai,General Surgeon,39,850,100,5,Practo
+Dr. C.Arunmozhi Varman,Dr. Rela Institute & Medical Centre,chennai,Laparoscopic Surgeon,18,800,67,3,Practo
+Dr. Ashok,Sooriya Hospital - Nungambakkam,chennai,Internal Medicine,33,500,100,1,Practo
+Dr. N. Nikath Nasreen,Lifeline Rigid Hospitals,chennai,Gynecologist/Obstetrician,16,900,85,26,Practo
+Dr. Deiveegan K,RPS Hospitals,chennai,Neurosurgeon,33,800,88,8,Practo
+Dr. R Jayaganesh,Billroth Hospital,chennai,Urologist,38,800,85,13,Practo
+Dr. D.Surendar,Billroth Hospitals,chennai,Nephrologist,22,650,67,3,Practo
+Dr. Ashok S Gavaskar,Dr. Rela Institute & Medical Centre,chennai,Orthopedist,24,600,97,167,Practo
+Dr. Rajkumar Janaviculam Sankaran,Lifeline Rigid Hospitals,chennai,General Surgeon,40,700,86,14,Practo
+Dr. Kalaiyarasan,Kannapa Memorial Hospital,chennai,Orthopedist,18,800,100,1,Practo
+Dr. Prabhu,Hycare Hospitals,chennai,General Surgeon,19,500,100,1,Practo
+Dr. Venkateshwar Ravisankar,Vasan Eye Care Hospital,chennai,Ophthalmologist,18,400,75,4,Practo
+Dr. S. Saravanan,VS Hospitals,chennai,Oncologist,27,750,,,Practo
+Dr. Narayanan V L,Hycare Hospitals,chennai,Orthopedist,18,600,100,3,Practo
+Dr. Anisha Ashok,Laser and Laparoscopic Hospital,chennai,General Surgeon,20,800,93,472,Practo
+Dr. Archana N,Vasan Eye Care Hospital,chennai,Ophthalmologist,17,400,100,1,Practo
+Dr. N K Ganesh Prasad,SRM Prime Hospital,chennai,Nephrologist,35,750,100,5,Practo
+Dr. Rachel R G,Vasan Eye Care Hospital,chennai,Ophthalmologist,15,400,,,Practo
+Dr. Thomas George,SRM Prime Hospital,chennai,Internal Medicine,48,750,91,202,Practo
+Dr. M Dinakaran,V S Hospitals,chennai,Cardiologist,26,1000,100,2,Practo
+Dr. Rajan Babu,VS Hospitals,chennai,Gastroenterologist,27,800,60,5,Practo
+Dr. Mohan,SRM Prime Hospital,chennai,Orthopedist,30,600,67,3,Practo
+Dr. Elangovan,V S Hospitals,chennai,Cardiologist,29,1000,33,2,Practo
+Dr. Shailaja Desai,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",pune,Cosmetologist,17,700,88,16,Practo
+Dr. Komal Prakash Kamble,DENTAL SOLUTIONS,pune,Dentist,17,400,98,460,Practo
+Dr. L K Desai,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",pune,Dermatologist,31,700,93,443,Practo
+Dr. Amol Thorat Dinkar,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,pune,Dentist,26,300,86,27,Practo
+Dr. Ratnika Agarwal,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,pune,Dentist,15,300,98,1010,Practo
+Dr. Ganesh,Dental Tree,pune,Dentist,17,200,98,448,Practo
+Dr. Ankush R. Agrawal,"Dentsee Dental Clinic, Laser and Implant Centre",pune,Dentist,21,400,96,234,Practo
+Dr. Neelam Jaiswal,Smile Time Multispeciality Dental And Implant Centre,pune,Dentist,15,300,97,435,Practo
+Dr. Mandar Ketkar,Dr. Ketkar Dental Clinic,pune,Dentist,29,600,99,495,Practo
+Dr. Rohit Jethale,Dentalist - The Smile Experts,pune,Dentist,17,300,99,562,Practo
+Dr. Mohan Nalawade,PURE SKIN-Skin Hair Laser Clinic,pune,Dermatologist,26,700,92,246,Practo
+Dr. Mamta,Dentalist - The Smile Experts,pune,Dentist,16,199,93,1,Practo
+Dr. Priyanka Agrawal,Dr. Thareja's 32 Perfect Dental Care,pune,Dentist,21,500,100,342,Practo
+Dr. Umang Shah,The Dental Ethics,pune,Dentist,15,500,98,166,Practo
+Dr. Swapnil K. Rachha,Soulful Dental Care,pune,Dentist,15,400,99,586,Practo
+Dr. Irshad Chaudary,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,pune,Dentist,16,300,94,17,Practo
+Dr. Hemant Patil,Laconic Dental Studio,pune,Dentist,19,500,93,1304,Practo
+Dr. Kaustubh Patil,The Dental Solutions,pune,Dentist,17,500,99,326,Practo
+Dr. Sachin Phadke,Phadke's Dental Clinic,pune,Dentist,27,300,99,391,Practo
+Dr. Bharat Oswal,Dr. Bharat Oswal's Multispeciality Dental Clinic,pune,Dentist,40,200,100,30,Practo
+Dr. Gautami Phadke,Dr. Phadke's Dental Clinic & Implant Centre,pune,Dentist,28,300,98,245,Practo
+Dr. Prashant Bhangale,Dr. Bhangale's Dental Clinic,pune,Dentist,27,300,99,64,Practo
+Dr. Priyanka Bansal,Benchmark Dental Clinic,pune,Dentist,17,400,98,198,Practo
+Dr. Shruti Santosh Digholkar,Generations Dental,pune,Dentist,16,300,98,40,Practo
+Dr. Neha A Agrawal,"Dentsee Dental Clinic, Laser and Implant Centre",pune,Dentist,20,400,97,30,Practo
+Dr. Abhay Bhosale,Smile and Co. Multi Specialty Dental Clinic,pune,Dentist,16,299,100,134,Practo
+Dr. Chetan Agarwal,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,pune,Dentist,15,300,83,6,Practo
+Dr. Sandeep Bhirud,Dr. Bhirud's Sweet Smile Dental Clinic,pune,Dentist,37,500,98,953,Practo
+Dr. Kirti Kadam,Laconic Dental Studio,pune,Dentist,26,500,,,Practo
+Dr. Jyoti Bhirud,Dr. Bhirud's Sweet Smile Dental Clinic,pune,Dentist,31,500,97,345,Practo
+Dr. Varsha Chopra,Benchmark Dental Clinic,pune,Dentist,17,400,100,3,Practo
+Dr. Rahul Kathariya,Dental Galaxy,pune,Dentist,21,400,96,560,Practo
+Dr. Apoorva Sahu,Dr Sahu’s Dental & Orthodontic Care,pune,Dentist,16,300,100,75,Practo
+Dr. Amit Thareja,Dr. Thareja's 32 Perfect Dental Care,pune,Dentist,22,500,100,200,Practo
+Dr. Pritam Dhoka,Enhance Centre For Dental Care And Orthodontics excellence.,pune,Dentist,21,500,98,615,Practo
+Dr. Abhinav Misuriya,Saroj Dental Care Centre,pune,Dentist,21,400,96,249,Practo
+Dr. Rashmi Singh Chauhan,Chauhan's Dental Care,pune,Dentist,21,700,93,124,Practo
+Dr. Vivek Singh Chauhan,Chauhan's Dental Care,pune,Dentist,21,700,97,637,Practo
+Dr. Shubhra Misuriya,Saroj Dental Care Centre,pune,Dentist,21,400,99,349,Practo
+Dr. Rishikesh Parekh,Smile and Co. Multi Specialty Dental Clinic,pune,Dentist,17,300,67,3,Practo
+Dr. Ravindra Chhajed,Ruby Hall Clinic,pune,General Physician,31,800,98,479,Practo
+Dr. N.M. Rao,Lotus Multispeciality Hospital,pune,General Physician,44,1000,69,11,Practo
+Dr. Harish Keswani,Ruby Hall Clinic,pune,Orthopedist,40,900,,,Practo
+Dr. Kote Shrikant Subhash,Lifepoint Multispeciality Hospital,pune,General Physician,17,950,,,Practo
+Dr. Rizwan Malik,Medicover Hospital,pune,General Physician,15,500,82,11,Practo
+Dr. Rameshwar Hudekar,Sunmed Hospital,pune,General Physician,20,700,89,9,Practo
+Dr. Lata Patil,Ruby Hall Clinic,pune,General Physician,37,800,,,Practo
+Dr. Pramod Jagtap,Ruby Hall Clinic,pune,General Physician,36,800,,,Practo
+Dr. Chandiwal Minish Mahendra,Ruby Hall Clinic,pune,General Physician,35,900,,,Practo
+Dr. Rahul Kallianpur,Aditya Birla Memorial Hospital,pune,Pediatrician,32,800,98,457,Practo
+Dr. Varshali Mali,Lifepoint Multispeciality Hospital,pune,Gynecologist/Obstetrician,21,950,98,248,Practo
+Dr. Nikhil S. Parwate,Aditya Birla Memorial Hospital,pune,Gynecologist/Obstetrician,26,1000,100,55,Practo
+Dr. Purandare Mayur,Lifepoint Multispeciality Hospital,pune,Orthopedist,20,950,89,170,Practo
+Dr. Shivdarshan Agarwal,Lotus Multispeciality Hospital,pune,Orthopedist,28,1000,95,793,Practo
+Dr. Pankaj Kshirsagar,Aditya Birla Memorial Hospital,pune,Oncologist,22,1000,90,10,Practo
+Dr. Manish Mali,Aditya Birla Memorial Hospital,pune,Nephrologist,21,1000,64,14,Practo
+Dr. Abhijit Ranaware,Noble Hospital,pune,Orthopedist,17,700,73,10,Practo
+Dr. Nilesh R. Palasdeokar,Ruby Hall Clinic,pune,Neurologist,22,1200,97,287,Practo
+Dr. Mithil Patil,Ashwini Hospital & Fertility Clinics,pune,Infertility Specialist,24,600,94,126,Practo
+Dr. Kishore Pandit,Gynaeworld Hospital,pune,Gynecologist/Obstetrician,29,1400,99,352,Practo
+Dr. Sushila Netravali,Aditya Birla Memorial Hospital,pune,Gynecologist/Obstetrician,17,1000,85,27,Practo
+Dr. Nikhil V. Rishikeshi,Dr. Agarwal's Eye Hospital,pune,Ophthalmologist,28,1000,97,114,Practo
+Dr. Baban C Dolas,Dr Agarwals Eye Hospital,pune,Ophthalmologist,29,500,72,45,Practo
+Dr. Zope Shirish Vasant,Lifepoint Multispeciality Hospital,pune,Orthopedist,24,900,50,35,Practo
+Dr. Abhijeet Karad,Aditya Birla Memorial Hospital,pune,Gastroenterologist,15,800,100,2,Practo
+Dr. Sandip Bartakke,Aditya Birla Memorial Hospital,pune,Pediatric Hematologic-Oncologist,30,1000,82,11,Practo
+Dr. Aniket Patil,Noble Hospital,pune,Orthopedist,22,700,96,851,Practo
+Dr. Akash Tatiya,Aditya Birla Memorial Hospital,pune,Orthopedist,18,1000,100,1,Practo
+Dr. Wategaonkar Ravikumar Narayan,Aditya Birla Memorial Hospital,pune,Oncologist,15,1000,96,26,Practo
+Dr. Rushabh Karnawat,Phoenix Hospital,pune,Gynecologist/Obstetrician,16,600,95,60,Practo
+Dr. Hemant Prakash Palkar,Aditya Birla Memorial Hospital,pune,Pediatrician,24,800,100,8,Practo
+Dr. Snehal Wakchaure,Dr Agarwals Eye Hospital,pune,Ophthalmologist,19,500,91,63,Practo
+Dr. Meenu Agarwal,Noble Hospital,pune,Infertility Specialist,39,1000,91,86,Practo
+Dr. Murtaza Adeeb,Noble Hospital,pune,Orthopedist,29,,100,3,Practo
+Dr. Anjendra R Targe,GAIA BODY-MIND-SOUL CLINIC,pune,Psychiatrist,21,2500,98,780,Practo
+Dr. Pankaj B Borade,Dr Pankaj Borade - Mind Matters Clinic,pune,Psychiatrist,17,2000,94,393,Practo
+Dr. Yogesh Agrawal,Lifepoint Multispeciality Hospital,pune,Pulmonologist,23,950,76,83,Practo
+Dr. Abhijit Lonari,Aditya Birla Memorial Hospital,pune,Orthopedist,26,1100,100,1,Practo
+Dr. Praful Rawate,Aditya Birla Memorial Hospital,pune,Orthopedist,15,1000,86,29,Practo
+Dr. Pankaj Asawa,Dr. Agarwal's Eye Hospital,pune,Ophthalmologist,34,600,87,51,Practo
+Dr. Vishal Patil,Lifepoint Multispeciality Hospital,pune,Orthopedist,21,950,90,49,Practo
+Dr. Abhay Somani,Ruby Hall Clinic,pune,Cardiologist,27,1200,92,143,Practo
+Dr. Abhijit A Whatkar,Noble Hospital,pune,General Surgeon,17,800,99,188,Practo
+Dr. Shrirang Kulkarni,Medicover Hospital,pune,Orthopedist,27,500,92,78,Practo
+Dr. Nandkishor Raut,Aditya Birla Memorial Hospital,pune,Urologist,10,1000,,,Practo
+Dr. Sonali Chaudhari,Lotus Multispeciality Hospital,pune,Infertility Specialist,25,1100,89,154,Practo
+Dr. Sambharam Arti Dattatraya,Cloudnine Fertility - IVF Centre,pune,Infertility Specialist,26,1000,100,191,Practo
+Dr. Ashish Pokharkar,Noble Hospital,pune,Oncologist,22,700,87,15,Practo
+Dr. Vaishali Bafna,Aditya Birla Memorial Hospital,pune,Ear-Nose-Throat (ENT) Specialist,28,1000,100,6,Practo
+Dr. Anand Palimkar,Dr Agarwals Eye Hospital,pune,Ophthalmologist,29,600,96,694,Practo
+Dr. Metta Padma Lakshmi,Dr. Agarwal's Eye Hospital,pune,Ophthalmologist,29,600,77,14,Practo
+Dr. Piyush Jain,ASG Eye Hospital,pune,Ophthalmologist,19,500,97,37,Practo
+Dr. Jagdish Shinde,Aditya Birla Memorial Hospital,pune,Oncologist,20,1000,,,Practo
+Dr. Rakesh Neve,Lifepoint Multispeciality Hospital,pune,Laparoscopic Surgeon,31,1500,67,3,Practo
+Dr. Vishal Chaudhari,Noble Hospital,pune,Orthopedist,20,850,56,8,Practo
+Dr. Santosh Sidid,Noble Hospital,pune,Gynecologist/Obstetrician,36,850,100,2,Practo
+Dr. Priya Mankare,Aditya Birla Memorial Hospital,pune,Pediatrician,31,800,100,2,Practo
+Dr. Nilesh Unmesh Balkawade,Oasis Fertility,pune,Gynecologist/Obstetrician,18,,93,40,Practo
+Dr. Radhe Shyam Chaudhari,Aditya Birla Memorial Hospital,pune,Urologist,17,1000,75,4,Practo
+Dr. Avinash Ignatius,Ruby Hall Clinic,pune,Nephrologist,25,900,88,26,Practo
+Dr. Abhimanyu Sengupta,Ankura Hospital For Women and Children,pune,Pediatrician,36,700,65,23,Practo
+Dr. Bahar Khan,Noble Hospital,pune,Gynecologist/Obstetrician,32,750,100,9,Practo
+Dr. Kumar Raushan,Aditya Birla Memorial Hospital,pune,General Surgeon,18,800,100,1,Practo
+Dr. Sujit Sawadatkar,Noble Hospital,pune,Cardiologist,22,950,75,3,Practo
+Dr. Tushar Anil Warke,Aditya Birla Memorial Hospital,pune,Internal Medicine,18,1000,100,2,Practo
+Dr. Ashish Kumar Shrivastav,Devi Ratna Multispeciality Hospital,pune,Laparoscopic Surgeon,26,1000,88,17,Practo
+Dr. Prashant Kedari,Jeevan Jyoti Superspeciality Hospital,pune,General Surgeon,27,1200,88,4,Practo
+Dr. Pushpa Otiv,Ruby Hall Clinic,pune,Gynecologist/Obstetrician,44,700,100,1,Practo
+Dr. Madhulika Singh,Ankura Hospital For Women and Children,pune,Gynecologist/Obstetrician,27,1000,95,64,Practo
+Dr. Manoj M.Bauskar,Ruby Hall Clinic,pune,Ear-Nose-Throat (ENT) Specialist,25,800,90,182,Practo
+Dr. Seema Jain,Cloudnine Fertility - IVF Centre,pune,Infertility Specialist,31,1000,93,1702,Practo
+Dr. Amrut Oswal,Pawar Multispeciality Hospital,pune,Orthopedist,45,1200,50,5,Practo
+Dr. Ashutosh Sabnis,Pawar Multispeciality Hospital,pune,Spine Surgeon,23,1300,100,38,Practo
+Dr. Yogesh Bade,Aditya Birla Memorial Hospital,pune,Gastroenterologist,16,800,67,3,Practo
+Dr. Gopal Rathi,Ruby Hall Clinic,pune,Urologist,19,1200,90,10,Practo
+Dr. Sameer Badami,Ruby Hall Clinic,pune,General Surgeon,29,700,100,51,Practo
+Dr. Nudrat Kamal,Noble Hospital,pune,Ear-Nose-Throat (ENT) Specialist,16,700,83,11,Practo
+Dr. Molshri Misra,Aditya Birla Memorial Hospital,pune,Gynecologist/Obstetrician,16,800,100,54,Practo
+Dr. Ajita Pralhad Kendre,Aditya Birla Memorial Hospital,pune,Oncologist,19,1000,,,Practo
+Dr. Nitin dalaya,Nityanand Rehabilitation Centre,pune,Psychiatrist,32,1500,99,134,Practo
+Dr. Afshan Maniyar,Ruby Hall Clinic,pune,Gynecologist/Obstetrician,22,700,95,62,Practo
+Dr. Soniya Pawar,Pawar Multispeciality Hospital,pune,Gynecologist/Obstetrician,33,800,80,19,Practo
+Dr. Suhas Mondhe,Wisdom Super Speciality Hospital,pune,Nephrologist,20,1000,83,5,Practo
+Dr. Abhijit Baheti,Ruby Hall Clinic,pune,Hematologist,16,1100,,,Practo
+Dr. Shweta Pandya,Jeevan Jyoti Superspeciality Hospital,pune,Gynecologist/Obstetrician,16,1000,100,7,Practo
+Dr. Vidita Powle,Aditya Birla Memorial Hospital,pune,General Surgeon,16,1000,,,Practo
+Dr. Kundan Kharde,Sharvari Hospital,pune,General Surgeon,19,1000,95,87,Practo
+Dr. Chaitanya Waghchoure,Noble Hospital,pune,Orthopedist,18,700,100,7,Practo
+Dr. Aparna Kodre,Noble Hospital,pune,Internal Medicine,27,800,,,Practo
+Dr. Harshvardhan Chaukulkar,Ruby Hall Clinic,pune,Laparoscopic Surgeon,18,800,94,52,Practo
+Dr. Sandhya Meshram,Cloudnine Fertility - IVF Centre,pune,Gynecologist/Obstetrician,17,1000,100,1,Practo
+Dr. Aniruddha Tembe,Aditya Birla Memorial Hospital,pune,Internal Medicine,24,1000,88,16,Practo
+Dr. Anand Yannawar,Medicover Hospital,pune,Pulmonologist,22,1000,94,128,Practo
+Dr. Sandesh Surana,Pawar Multispeciality Hospital,pune,Urologist,26,1500,75,4,Practo
+Dr. Vishal Bhasme,Ruby Hall Clinic,pune,Neurosurgeon,23,1100,82,11,Practo
+Dr. Kirti Joglekar,Gynaeworld Hospital,pune,Gynecologist/Obstetrician,47,2000,100,38,Practo
+Dr. Narendra Chopde,Ruby Hall Clinic,pune,Bariatric Surgeon,19,900,100,10,Practo
+Dr. Kasat Mayur Shivdas,Ruby Hall Clinic,pune,Orthopedist,22,700,100,88,Practo
+Dr. Hemant Kamble,ASG Eye Hospital,pune,Ophthalmologist,19,1000,63,7,Practo
+Dr. Pravin Waghmare,Jeevan Jyoti Superspeciality Hospital,pune,Orthopedist,20,1200,95,87,Practo
+Dr. Sudhir Baburdikar,Dr. Agarwal's Eye Hospital,pune,Ophthalmologist,27,600,100,18,Practo
+Dr. Lalit Banswal,Noble Hospital,pune,General Surgeon,18,700,100,2,Practo
+Dr. Sandeep S Morkhandikar,Ruby Hall Clinic,pune,Nephrologist,19,900,100,20,Practo
+Dr. Meghana Rahul Argade,Gynaeworld Hospital,pune,Gynecologist/Obstetrician,27,1000,95,22,Practo
+Dr. Mahesh Sampat Kharade,Lifepoint Multispeciality Hospital,pune,Cardiologist,16,1500,100,4,Practo
+Dr. Shama Shaikh,Ruby Hall Clinic,pune,General Surgeon,24,700,64,14,Practo
+Dr. Sana Ahmed Sayyad,Ruby Hall Clinic,pune,Orthopedist,15,800,33,3,Practo
+Dr. Kailas Mohanrao Jorule,Aditya Birla Memorial Hospital,pune,Orthopedist,16,800,,,Practo
+Dr. R K Chopra,Ruby Hall Clinic,pune,Pulmonologist,40,900,67,3,Practo
+Dr. Kedar Pratap Patil,Ruby Hall Clinic,pune,Bariatric Surgeon,21,1100,100,19,Practo
+Dr. Sonal Ashok Erole,Dr Agarwals Eye Hospital,pune,Ophthalmologist,18,500,86,7,Practo
+Dr. Nitin Pawar,Pawar Multispeciality Hospital,pune,General Surgeon,40,800,67,3,Practo
+Dr. Gaikwad Ramesh Ranganath,Cloudnine Fertility - IVF Centre,pune,Infertility Specialist,22,1000,,,Practo
+Dr. Pranav Jadhav,Noble Hospital,pune,Pediatric Surgeon,33,1000,78,9,Practo
+Dr. Vijay Parbatani,Dr. Parbatani's Eye Laser Centre,pune,Ophthalmologist,26,700,93,330,Practo
+Dr. Prasad,Medicover Hospital,pune,Internal Medicine,22,750,50,2,Practo
+Dr. Nitin Kolte,Poona Eye Care Pvt Ltd,pune,Ophthalmologist,26,700,100,2,Practo
+Dr. Seema Joshi,Ankura Hospital For Women and Children,pune,Pediatrician,26,900,89,27,Practo
+Dr. Karishma Dafle,Cloudnine Fertility - IVF Centre,pune,Infertility Specialist,16,1000,100,28,Practo
+Dr. Suraj Chavan,Wisdom Super Speciality Hospital,pune,Cardiac Surgeon,25,1000,,,Practo
+Dr. Yuvaraj Bhosale,Jeevan Jyoti Superspeciality Hospital,pune,Cardiologist,21,1200,,,Practo
+Dr. Pravin Bhosale,Ruby Hall Clinic,pune,Ear-Nose-Throat (ENT) Specialist,32,800,100,11,Practo
+Dr. Vikram Satav,Noble Hospital,pune,Urologist,28,850,75,8,Practo
+Dr. Ashish S Khanijo,Ruby Hall Clinic,pune,Cardiothoracic Surgeon,35,1200,,,Practo
+Dr. Deepali Shivajirao,"Cloudnine Fertility - IVF Centre, Kalyani Nagar",pune,Infertility Specialist,23,1000,,,Practo
+Dr. Kedar Marathe,Ankura Hospital For Women and Children,pune,Gynecologist/Obstetrician,21,1000,70,23,Practo
+Dr. Sani Dole,Golden Care Hospital,pune,Orthopedist,17,500,70,11,Practo
+Dr. Shailesh S Patil,Noble Hospital,pune,Orthopedist,26,700,67,6,Practo
+Dr. Sujit Kadrekar,Pawar Multispeciality Hospital,pune,Orthopedist,17,1300,,,Practo
+Dr. Sonam Shinde,Medicover Hospital,pune,Cardiologist,18,1000,79,14,Practo
+Dr. Ashraf Khan,Ruby Hall Clinic,pune,Orthopedist,23,800,100,2,Practo
+Dr. Gaurav Ganeshwala,Ruby Hall Clinic,pune,Cardiologist,19,900,,,Practo
+Dr. Janitha Gilbert,Ruby Hall Clinic,pune,Pediatrician,17,700,100,1,Practo
+Dr. Anup Ashok Sadafale,ASG Eye Hospital,pune,Ophthalmologist,18,500,,,Practo
+Dr. Shrikant Ghanwat,Medicover Hospital,pune,General Surgeon,15,800,,,Practo
+Dr. Mahesh Jadhav,Golden Care Hospital,pune,Internal Medicine,15,500,50,4,Practo
+Dr. Marya Patil,Ruby Hall Clinic,pune,Gynecologist/Obstetrician,56,700,,,Practo
+Dr. B R Kilawat,Sunmed Hospital,pune,Pediatrician,18,700,,,Practo
+Dr. Prashant Sadashiv Shinde,Medicover Hospital,pune,Cardiologist,20,1000,100,5,Practo
+Dr. Kokadwar Ganesh Vasant Rao,Wisdom Super Speciality Hospital,pune,Gynecologist/Obstetrician,22,800,,,Practo
+Dr. Shaikh Aarofil Israil,ASG Eye Hospital,kolkata,Ophthalmologist,23,500,33,8,Practo
+Dr. Chayan Kumar Roy,Techno India Dama Healthcare & Medical Centre,kolkata,General Physician,31,700,64,11,Practo
+Dr. Koushik Basu,Techno India Dama Healthcare & Medical Centre,kolkata,General Physician,24,800,,,Practo
+Dr. Shambhu Vishal,Techno India Dama Healthcare & Medical Centre,kolkata,General Physician,17,600,88,33,Practo
+Dr. Ranjit Kumar Halder,Samaritan Clinic Private Limited,kolkata,General Physician,26,1500,,,Practo
+Dr. Utpal Chaudhuri,Techno India Dama Healthcare & Medical Centre,kolkata,General Physician,48,1000,100,1,Practo
+Dr. Arka Chatterjee,Techno India Dama Healthcare & Medical Centre,kolkata,General Physician,17,500,,,Practo
+Dr. Shiv Krishna Mitra,Samaritan Clinic Private Limited,kolkata,General Physician,16,1500,,,Practo
+Dr. Gaurav Priyadarshan,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,15,1200,100,4,Practo
+Dr. Himanshu Shekhar,ASG Eye Hospital,kolkata,Ophthalmologist,21,400,83,17,Practo
+Dr. Koushik Basu,ASG Eye Hospital,kolkata,Ophthalmologist,17,500,88,7,Practo
+Dr. Debasish Ghosh,Sl Artemis Medical Centre Pvt Ltd,kolkata,Ear-Nose-Throat (ENT) Specialist,25,1500,90,10,Practo
+Dr. Gautam Gupta,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,17,850,75,11,Practo
+Dr. Kalyan Das,Samaritan Clinic Private Limited,kolkata,Plastic Surgeon,24,1500,100,3,Practo
+Dr. Bidisha Roy Choudhury,Sl Artemis Medical Centre Pvt Ltd,kolkata,Gynecologist/Obstetrician,19,1200,91,35,Practo
+Dr. Gopal Bandyopadhyay,ASG Eye Hospital,kolkata,Ophthalmologist,22,400,50,7,Practo
+Dr. Sunil Jalan,Sl Artemis Medical Centre Pvt Ltd,kolkata,Ear-Nose-Throat (ENT) Specialist,22,1500,98,267,Practo
+Dr. Arnab Sadhukhan,ASG Eye Hospital,kolkata,Ophthalmologist,19,500,57,22,Practo
+Dr. Atanu Barh,ASG Eye Hospital,kolkata,Ophthalmologist,17,500,67,6,Practo
+Dr. Chinmoy Biswas,Sl Artemis Medical Centre Pvt Ltd,kolkata,Orthopedist,30,1400,50,2,Practo
+Dr. Amlan Chakraborty,Samaritan Clinic Private Limited,kolkata,General Surgeon,26,2000,88,26,Practo
+Dr. Debabrata Mitra,Techno India Dama Healthcare & Medical Centre,kolkata,Internal Medicine,31,900,100,1,Practo
+Dr. Amit Kumar Dutta,Techno India Dama Healthcare & Medical Centre,kolkata,General Surgeon,27,1000,100,1,Practo
+Dr. Pallab Saha,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,28,1300,100,1,Practo
+Dr. Ritwik Ganguli,Sl Artemis Medical Centre Pvt Ltd,kolkata,Orthopedist,17,1500,76,24,Practo
+Dr. Debmalya Maity,Sl Artemis Medical Centre Pvt Ltd,kolkata,Gynecologist/Obstetrician,21,1500,33,3,Practo
+Dr. Prasenjit Bhattacharya,Samaritan Clinic Private Limited,kolkata,General Surgeon,18,1600,83,6,Practo
+Dr. Arindam Dutta,Sl Artemis Medical Centre Pvt Ltd,kolkata,Urologist,25,1500,67,5,Practo
+Dr. Arnab Kundu,Techno India Dama Healthcare & Medical Centre,kolkata,,15,1100,,,Practo
+Dr. Souvik Chatterjee,Samaritan Clinic Private Limited,kolkata,Urologist,20,1500,88,8,Practo
+Dr. Mainak Pal,Samaritan Clinic Private Limited,kolkata,General Surgeon,18,1300,,,Practo
+Dr. Rajeev Raman,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,23,1000,60,10,Practo
+Dr. Anindita Bhar,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,26,1200,70,10,Practo
+Dr. Debtanu Bhattacharya,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,30,1200,100,1,Practo
+Dr. Achintya Kumar,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,32,1500,,,Practo
+Dr. Rahul Dhar,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,15,1500,100,5,Practo
+Dr. Nilanjan Mitra,Samaritan Clinic Private Limited,kolkata,Urologist,22,1500,89,37,Practo
+Dr. Shiv Ratan Pathak,Samaritan Clinic Private Limited,kolkata,Gastroenterologist,15,1500,100,3,Practo
+Dr. Pariksha Mehta,Sl Artemis Medical Centre Pvt Ltd,kolkata,Ear-Nose-Throat (ENT) Specialist,19,1200,100,21,Practo
+Dr. Rajdip Sen,Samaritan Clinic Private Limited,kolkata,Internal Medicine,18,1500,100,1,Practo
+Dr. Pratik Kumar Mitra,Techno India Dama Healthcare & Medical Centre,kolkata,Anesthesiologist,16,1100,75,4,Practo
+Dr. Subhadip Mallik,Samaritan Clinic Private Limited,kolkata,Gynecologist/Obstetrician,26,1500,,,Practo
+Dr. K.D. Biswas,Samaritan Clinic Private Limited,kolkata,Ear-Nose-Throat (ENT) Specialist,20,1500,,,Practo
+Dr. Naba Kumar Saha,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,30,1500,100,2,Practo
+Dr. Soumya Mondol,Sl Artemis Medical Centre Pvt Ltd,kolkata,Urologist,23,1500,,,Practo
+Dr. Rajesh Barasia,Techno India Dama Healthcare & Medical Centre,kolkata,General Surgeon,36,1000,,,Practo
+Dr. Amit Kumar Das,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,17,800,100,1,Practo
+Dr. Amitava Roy,Samaritan Clinic Private Limited,kolkata,Ear-Nose-Throat (ENT) Specialist,18,1500,100,1,Practo
+Dr. Suddhasatwa Sen,Techno India Dama Healthcare & Medical Centre,kolkata,Gastroenterologist,21,4100,,,Practo
+Dr. Amit K R Samanta,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,29,1500,,,Practo
+Dr. Palash Mallick,Techno India Dama Healthcare & Medical Centre,kolkata,General Surgeon,23,900,50,4,Practo
+Dr. Sudipta Kumar Singh,Techno India Dama Healthcare & Medical Centre,kolkata,Urologist,20,1000,67,2,Practo
+Dr. Arnab Karmakar,Sl Artemis Medical Centre Pvt Ltd,kolkata,Orthopedist,16,1200,67,5,Practo
+Dr. Anup Kumar Datta,Samaritan Clinic Private Limited,kolkata,Internal Medicine,27,1500,,,Practo
+Dr. Malay Kumar Mandal,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,33,500,90,10,Practo
+Dr. Manoj Kumar Khemani,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,24,1100,90,39,Practo
+Dr. Kaushik Das,Techno India Dama Healthcare & Medical Centre,kolkata,Ear-Nose-Throat (ENT) Specialist,37,1100,85,20,Practo
+Dr. Rajashree Ray,Techno India Dama Healthcare & Medical Centre,kolkata,Psychiatrist,28,1300,90,93,Practo
+Dr. Debasish Chatterjee,Techno India Dama Healthcare & Medical Centre,kolkata,General Surgeon,17,1000,100,2,Practo
+Dr. Debabrata Maity,Techno India Dama Healthcare & Medical Centre,kolkata,General Surgeon,21,500,100,2,Practo
+Dr. Anupam Das,Samaritan Clinic Private Limited,kolkata,Orthopedist,15,2000,100,1,Practo
+Dr. Mukesh Kumar Vijay,Sl Artemis Medical Centre Pvt Ltd,kolkata,Urologist,25,2000,75,7,Practo
+Dr. Nandini Chakrabarti,Techno India Dama Healthcare & Medical Centre,kolkata,Gynecologist/Obstetrician,33,800,54,36,Practo
+Dr. Aloksobhan Dutta,Samaritan Clinic Private Limited,kolkata,Orthopedist,40,1800,90,10,Practo
+Dr. Parthasarathi Karmakar,Techno India Dama Healthcare & Medical Centre,kolkata,Cardiologist,41,800,100,1,Practo
+Dr. Dipankar Bhattacharya,Samaritan Clinic Private Limited,kolkata,Gynecologist/Obstetrician,24,1500,73,11,Practo
+Dr. Anindya Maitra,Samaritan Clinic Private Limited,kolkata,Nephrologist,21,1500,100,3,Practo
+Dr. Gautam Majumdar,Samaritan Clinic Private Limited,kolkata,Internal Medicine,52,2500,100,1,Practo
+Dr. Hema Malathi Rath,Techno India Dama Healthcare & Medical Centre,kolkata,Cardiologist,25,1200,,,Practo
+Dr. Md Ghulam Jeelani Naiyer,Samaritan Clinic Private Limited,kolkata,Plastic Surgeon,25,2200,,,Practo
+Dr. Alok Kumar De,Techno India Dama Healthcare & Medical Centre,kolkata,Gynecologist/Obstetrician,28,600,100,1,Practo
+Dr. Ashraful Haque,Techno India Dama Healthcare & Medical Centre,kolkata,Cardiologist,20,1000,,,Practo
+Dr. Swati Mishra,Birla Fertility and IVF,kolkata,Infertility Specialist,23,800,50,4,Practo
+Dr. Shashi Kant Tewary,Techno India Dama Healthcare & Medical Centre,kolkata,Urologist,21,800,67,2,Practo
+Dr. Debarati Bhar,Techno India Dama Healthcare & Medical Centre,kolkata,Endocrinologist,25,1000,33,3,Practo
+Dr. Santanu Dutta,Samaritan Clinic Private Limited,kolkata,Cardiac Surgeon,36,2000,50,6,Practo
+Dr. Shubhamitra Chaudhuri,Samaritan Clinic Private Limited,kolkata,Neurosurgeon,16,1500,40,5,Practo
+Dr. Ranajit Basu,Titanium Eye Care,kolkata,Ophthalmologist,27,800,95,20,Practo
+Dr. Zennat T Shah,Titanium Eye Care,kolkata,Ophthalmologist,23,800,100,4,Practo
+Dr. Souvik Chakraborty (PhD),Dietitian Souvik Chakraborty,kolkata,Dietitian/Nutritionist,18,800,91,77,Practo
+Dr. Sadajit Banerjee,Techno India Dama Healthcare & Medical Centre,kolkata,General Physician,13,1000,,,Practo
+Dr. Ranajoy Dutta,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Physician,14,1000,100,1,Practo
+Dr. Anumita Dey,Nova Medical Services,kolkata,General Physician,21,1000,100,1,Practo
+Dr. Soutrik Kumar,ENT and HNS Clinic,kolkata,Ear-Nose-Throat (ENT) Specialist,11,700,97,58,Practo
+Dr. Ratnadeep Ghosh,Techno India Dama Healthcare & Medical Centre,kolkata,Ear-Nose-Throat (ENT) Specialist,23,800,73,22,Practo
+Dr. Ram Dasgupta,N G Medicare & Calcutta Hope Infertility Clinic,kolkata,Psychiatrist,53,1500,87,52,Practo
+Dr. Tammna Hussain,Sl Artemis Medical Centre Pvt Ltd,kolkata,Gynecologist/Obstetrician,9,1200,100,4,Practo
+Dr. Sabyasachi Chakrabarty,ASG Eye Hospital,kolkata,Ophthalmologist,14,500,100,,Practo
+Dr. Sukhamoy Barik,Binayak Imaging And Diagnostic Center,kolkata,Gynecologist/Obstetrician,19,800,99,134,Practo
+Dr. Chhandanika De,Homeo Care,kolkata, Homoeopath,33,500,80,10,Practo
+Dr. Paroma Mukherjee,Sl Artemis Medical Centre Pvt Ltd,kolkata,Ear-Nose-Throat (ENT) Specialist,7,1200,83,6,Practo
+Dr. Suvendu Maji,Sl Artemis Medical Centre Pvt Ltd,kolkata,General Surgeon,14,2000,100,2,Practo
+Dr. Sushpa,Daradia The Pain Clinic,kolkata,Pain Management Specialist,10,2000,100,7,Practo
+Dr. Anirban Pal,Techno India Dama Healthcare & Medical Centre,kolkata,Pain Management Specialist,23,800,100,1,Practo
+Dr. Sugata,Birla Fertility and IVF,kolkata,Infertility Specialist,13,800,100,1,Practo
+Dr. Subhayan Bhattacharya,Techno India Dama Healthcare & Medical Centre,kolkata,Infectious Diseases Physician,16,1100,100,1,Practo
+Dr. Pritam Kundu,Sl Artemis Medical Centre Pvt Ltd,kolkata,Laparoscopic Surgeon,11,1200,100,31,Practo
+Dr. Sreeparna Roy,Birla Fertility and IVF,kolkata,Infertility Specialist,8,800,50,1,Practo
+Dr. Swarnabha Mukhopadhyay,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,11,900,,,Practo
+Dr. Kevin Vadadoriya,Sl Artemis Medical Centre Pvt Ltd,kolkata,Orthopedist,14,1200,67,,Practo
+Dr. Ahetesam Hosain,Techno India Dama Healthcare & Medical Centre,kolkata,General Surgeon,12,600,,,Practo
+Dr. Swarnava Dattagupta,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,11,600,,,Practo
+Dr. Nittala Venkata Krishna Mohan,March ENT Clinic,kolkata,Ear-Nose-Throat (ENT) Specialist,32,1100,80,5,Practo
+Dr. Partha Pratim Sinha Roy,Sl Artemis Medical Centre Pvt Ltd,kolkata,Urologist,13,1200,100,1,Practo
+Dr. Pratik Agarwal,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,13,1000,,,Practo
+Dr. Prashant Kumar,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,11,800,,,Practo
+Dr. Supratip Kundu,Techno India Dama Healthcare & Medical Centre,kolkata,Cardiologist,17,2500,89,9,Practo
+Dr. Ritwik Ghosh Haldar,Care Genix Clinic & Diagnostics,kolkata,Gynecologist/Obstetrician,12,800,100,2,Practo
+Dr. Leena Mistry,Sl Artemis Medical Centre Pvt Ltd,kolkata,Pulmonologist,20,1500,63,7,Practo
+Dr. Chirajit Dutta,March ENT Clinic,kolkata,Ear-Nose-Throat (ENT) Specialist,30,1100,89,9,Practo
+Dr. Amrita Chaudhuri,Techno India Dama Healthcare & Medical Centre,kolkata,Gynecologist/Obstetrician,13,1000,100,2,Practo
+Dr. Shankar Prasad Nandi,Techno India Dama Healthcare & Medical Centre,kolkata,Neurologist,29,800,86,6,Practo
+Dr. Joyita Das Choudhury,Horizon Aesthetics,kolkata,Dentist,5,500,100,2,Practo
+Dr. Subhasish Deb,Techno India Dama Healthcare & Medical Centre,kolkata,Cardiologist,13,1000,,,Practo
+Ms. Silky Mahajan,Foods & Nutrition by Silky Mahajan,kolkata,Dietitian/Nutritionist,18,1770,98,640,Practo
+Dr. Shiv Prakash Singh,Vedhive Ayurveda,kolkata, Ayurveda,18,700,97,64,Practo
+Dr. Smiti Rani Srivastava,Eye Clinic,kolkata,Ophthalmologist,23,1000,96,77,Practo
+Dr. Anjan Das,Vedhive Ayurveda,kolkata, Ayurveda,8,500,96,24,Practo
+Dr. Rik Sadhukan,Vedhive Ayurveda,kolkata, Ayurveda,8,500,95,36,Practo
+Dr. Asad Ansari,HairMate Clinic,kolkata,Dermatologist,15,1200,56,9,Practo
+Dr. Ritoban Saha Bhowmick,Sl Artemis Medical Centre Pvt Ltd,kolkata,Dentist,12,1200,,,Practo
+Dr. Shamik Gope,Samaritan Clinic Private Limited,kolkata,Dentist,19,1500,100,1,Practo
+Dr. Sondipon Biswas,Techno India Dama Healthcare & Medical Centre,kolkata,Orthopedist,13,1000,,,Practo
+Dr. Kakali Choudhury,Samaritan Clinic Private Limited,kolkata,Oncologist,23,1500,,,Practo
+Dr. Pallabika Mondal,Samaritan Clinic Private Limited,kolkata,Oncologist,18,1500,,,Practo
+Dr. Nilesh Giri,Techno India Dama Healthcare & Medical Centre,kolkata,Internal Medicine,11,1000,,,Practo
+Dr. Sandip Rungta,Mansa Sheel,kolkata,General Physician,26,800,99,551,Practo
+Dr. Kamal Sinha,Manipal Hospitals (AMRI Hospitals),kolkata,Rehab & Physical Medicine Specialist,39,1200,83,28,Practo
+Dr. Debasish Saha,Manipal Hospital Broadway (AMRI Hospitals),kolkata,General Physician,46,1500,83,35,Practo
+Dr. S A Mallick,Dr Amitava Chakravorty's Clinic,kolkata,General Physician,18,1500,98,318,Practo
+Dr. Shyama Prasad Roy,Binapani Doctor's Chamber,kolkata,General Physician,40,800,80,30,Practo
+Dr. Dipankar Debnath,Suraksha Diagnostic,kolkata,General Practitioner,24,500,100,3,Practo
+Dr. Subhayu B,Manipal Hospitals (AMRI Hospitals),kolkata,General Physician,29,1500,,,Practo
+Dr. Subhash Chandra Garai,Care & Cure Health Clinic,kolkata,General Physician,43,500,57,7,Practo
+Dr. Sima Datta Ray,Manipal Hospital Broadway (AMRI Hospitals),kolkata,Internal Medicine,34,1000,93,13,Practo
+Dr. Manaskumar Mandal,Manipal Hospital Broadway (AMRI Hospitals),kolkata,General Physician,36,1200,100,1,Practo
+Dr. Suman Meyur,Suraksha Diagnostic,kolkata,,16,700,,,Practo
+Dr. Gaurab Bhaduri,Apollo Sugar Clinic,kolkata,General Physician,15,1100,83,12,Practo
+Dr. Debashis Maitra,Suraksha Diagnostic,kolkata,General Physician,31,800,,,Practo
+Dr. Indranil Sinha Roy,Apollo Clinic,kolkata,General Physician,22,1000,100,1,Practo
+Dr. Ranjan Kumar Bhattacharya,Suraksha Diagonostics,kolkata,Internal Medicine,50,500,,,Practo
+Dr. Sibasis Bhattacharyya,Apollo Clinic,kolkata,General Physician,15,1000,100,1,Practo
+Dr. Keshav Agarwal,Apollo Clinic,kolkata,General Physician,4,600,33,3,Practo
+Dr. Swapan Kumar Sarkar,Suraksha Diagnostics,kolkata,General Physician,41,600,,,Practo
+Dr. Ruchika Debraj De,Apollo Dermatology Clinic,kolkata,Cosmetologist,7,500,,,Practo
+Dr. Abhisek Bhatia,Apollo Clinic,kolkata,General Physician,24,700,,,Practo
+Dr. Soumik Debnath,Doctor's Clinic,kolkata,General Physician,16,700,99,125,Practo
+Dr. Mrinal Kanti Bose,Bose Clinic,kolkata,General Physician,45,600,100,1,Practo
+Dr. Antarikhya Bordoloi,Compassia Health Services Pvt. Ltd.,kolkata,Geriatrician,10,800,100,4,Practo
+Dr. Abhijit Bhatta,Suraksha Diagnostics,kolkata,General Physician,32,1000,86,7,Practo
+Dr. Anirban Das,IRIS Hospital,kolkata,Internal Medicine,26,1000,100,25,Practo
+Dr. Syamasis Bandyopadhyay,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,38,1200,100,1,Practo
+Dr. Sudipta Dutta,Manipal Hospital Broadway (AMRI Hospitals),kolkata,General Physician,18,1000,100,5,Practo
+Dr. Jai Ranjan Ram,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,36,1200,,,Practo
+Dr. Shilpa Bhartia,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,25,700,,,Practo
+Dr. Asmita Saha,Dr. Asmita Saha Clinic,kolkata,Psychiatrist,4,900,,,Practo
+Dr. Soumitra Das,Suraksha Diagnostics,kolkata,General Physician,18,700,75,8,Practo
+Dr. Rakhi Sanyal,Manipal Hospital Broadway (AMRI Hospitals),kolkata,General Physician,33,1500,50,4,Practo
+Dr. Chanchal Kumar Jana,Apollo Clinic,kolkata,General Physician,46,800,100,2,Practo
+Dr. Pratik Dasgupta,IRIS Hospital,kolkata,Internal Medicine,26,1000,100,4,Practo
+Dr. Saroj Kumar Saha,Suraksha Diagnostic,kolkata,General Physician,50,300,,,Practo
+Dr. Sushmita Roy,Suraksha Diagnostics,kolkata,General Physician,29,400,,,Practo
+Dr. P N Mohapatra,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,35,500,,,Practo
+Dr. Suddhasatwya Chatterjee,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,21,800,,,Practo
+Dr. Subhasish Gangopadhyay,Manipal Hospital Broadway (AMRI Hospitals),kolkata,General Physician,40,950,,,Practo
+Dr. Debarghya Dey,Suraksha Diagnostics,kolkata,General Physician,13,600,100,3,Practo
+Dr. Raja Mazumder,Jivantika Diagnostic Clinic,kolkata,General Practitioner,31,900,100,1,Practo
+Dr. Biswanath Sharma Sarkar,IRIS Hospital,kolkata,General Physician,27,700,,,Practo
+Dr. Anirvan Jaiswal,Manipal Hospital Broadway (AMRI Hospitals),kolkata,General Physician,20,1000,75,3,Practo
+Dr. Ajitesh Ghoshal,Suraksha Diagonostics,kolkata,General Physician,30,500,,,Practo
+Dr. Dibyen Chatterjee,IRIS Hospital,kolkata,General Physician,22,700,100,1,Practo
+Dr. Anoop P N,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,9,400,100,1,Practo
+Dr. Manash Saha,Apollo Gleneagles Cancer Hospital,kolkata,General Physician,33,500,,,Practo
+Dr. Suman Nandi,Suraksha Diagonostics,kolkata,General Physician,35,700,,,Practo
+Dr. Pulak Ghosh Dastidar,IRIS Hospital,kolkata,General Physician,22,900,,,Practo
+Dr. Niloptal Mitra,Suraksha Diagnostic,kolkata,General Physician,29,500,,,Practo
+Dr. Romi Ray,Apollo Clinic,kolkata,General Physician,32,600,,,Practo
+Dr. Dip Chattopadhyay,Samaritan Clinic Private Limited,kolkata,General Physician,22,1000,,,Practo
+Dr. Arup Ratan Mallick,Suraksha Diagnostics,kolkata,Clinical Pharmacologist and Toxicologist,10,500,,,Practo
+Dr. Aritra Goswami,Suraksha Diagnostics,kolkata,General Physician,15,800,,,Practo
+Dr. Ami Shah,Art Fertility Clinics,ahmedabad,Infertility Specialist,19,1500,98,44,Practo
+Dr. Azadeh Patel,Art Fertility Clinics,ahmedabad,Infertility Specialist,15,1000,100,21,Practo
+Dr. Shah Shailesh Anantray,Bodyline Hospital,ahmedabad,Urologist,44,1700,73,14,Practo
+Dr. Dhaval Patel,Gayatri hospital and research center,ahmedabad,Laparoscopic Surgeon,17,800,80,5,Practo
+Dr. Kawad Kishore Dhanjibhai,Indira IVF - Fertility and IVF Center,ahmedabad,Gynecologist/Obstetrician,18,500,50,2,Practo
+Dr. Parth Joshi,Indira IVF - Fertility and IVF Center,ahmedabad,Gynecologist/Obstetrician,17,500,,,Practo
+Dr. Pathak Harsh Dilipkumar,Bodyline Hospital,ahmedabad,General Physician,15,600,94,16,Practo
+Dr. Rachana Dave (Physiotherapist),The public wellness,ahmedabad,Physiotherapist,14,600,100,21,Practo
+Dr. Hardik K. Shah,Mothercare Women's Hospital,ahmedabad,Gynecologist/Obstetrician,23,600,99,511,Practo
+Dr. Yash Shah,Bodyline Hospital,ahmedabad,Orthopedist,10,600,100,14,Practo
+Dr. Meghavi Rajeshbhai Modi,Bodyline Hospital,ahmedabad,Ear-Nose-Throat (ENT) Specialist,8,600,80,18,Practo
+Dr. Dhvanee Desai,Indira IVF - Fertility and IVF Center,ahmedabad,Infertility Specialist,14,500,100,3,Practo
+Dr. Urvashi Shah,Bodyline Hospital,ahmedabad,Gynecologist/Obstetrician,11,600,63,15,Practo
+Dr. Harsha Bhorhari,Om Holistic & Ayurveda Clinic,ahmedabad, Ayurveda,26,500,92,63,Practo
+Dr. Kamlesh Ram,Dr. Ram’s Advanced Surgical Hospital,ahmedabad,General Surgeon,19,1500,94,17,Practo
+Dr. Shah Ashir Kritikumar,Bodyline Hospital,ahmedabad,Nephrologist,12,1100,100,,Practo
+Dr. Darshil Prajapati,Indira IVF - Fertility and IVF Center,ahmedabad,Infertility Specialist,10,500,,,Practo
+Dr. Bhargavkumar Nimavat,Indira IVF - Fertility and IVF Center,ahmedabad,Infertility Specialist,12,500,,,Practo
+Dr. Shah Utsav Shailesh,Bodyline Hospital,ahmedabad,Urologist,14,800,88,25,Practo
+Dr. Kelawala Zalak Bhadreshbhai,Bodyline Hospital,ahmedabad,Oncologist,12,1100,,,Practo
+Dr. Kakkad Vivek,Birla Fertility & IVF,ahmedabad,Infertility Specialist,13,800,100,1,Practo
+Dr. Shrikant Lagvankar,Apollo Hospital,ahmedabad,General Physician,46,1000,50,2,Practo
+Dr. Pankaj Dubey,Apollo Hospital,ahmedabad,General Physician,29,800,100,1,Practo
+Dr. Kruti Godhani,Ved Multispecility Clinic & Diagnostics,ahmedabad,General Physician,16,800,,,Practo
+Dr. Jayesh Pavra,The Health Care PolyClinic,ahmedabad,Internal Medicine,31,1000,97,382,Practo
+Dr. V R Tindwani,Dr V R Tindwani Clinic,ahmedabad,General Physician,52,600,98,41,Practo
+Dr. Tapan Shah,Sangini Hospital,ahmedabad,General Physician,23,1200,98,383,Practo
+Dr. Shakuntala V Shah,Apollo Hospitals City Centre,ahmedabad,General Physician,51,,,,Practo
+Dr. Priyanka Srivastava,Apollo Hospitals City Centre,ahmedabad,General Physician,8,,100,1,Practo
+Dr. Manish Joshi,Apollo Hospital,ahmedabad,General Physician,30,700,,,Practo
+Dr. Agam J Gaargiya,Orchids ICU & Hospital,ahmedabad,Spine And Pain Specialist,17,1200,,,Practo
+Dr. B K Kedia,Apollo Hospital,ahmedabad,General Physician,44,800,,,Practo
+Dr. Bhaskar Thakkar,Life Care Pathology Laboratory,ahmedabad,Pathologist,24,500,,,Practo
+Dr. Pooja Solanki,Apollo Hospital,ahmedabad,General Physician,15,1000,,,Practo
+Dr. Anand Subramaniam Iyer,Apollo Hospital,ahmedabad,General Physician,26,1000,,,Practo
+Dr. Pooja Sharma,Musk Clinic,ahmedabad,General Physician,4,1000,100,1,Practo
+Dr. Hemang Zala,Dr. Hemang Zala Multi Speciality & Cosmetic Dental Hospital,ahmedabad,Dentist,26,500,96,602,Practo
+Dr. Rupa Tejas Shah,Silk Skin Laser Cosmetology Clinic,ahmedabad,Dermatologist,34,1000,96,166,Practo
+Dr. Meeta Desai,The Skin Sense,ahmedabad,Dermatologist,25,1000,98,250,Practo
+Dr. Meenu Shah,Tulip Women's Hospital,ahmedabad,Gynecologist/Obstetrician,24,1000,97,338,Practo
+Dr. Namrata Dhaval Shah,Saavi Women's Hospital,ahmedabad,Gynecologist/Obstetrician,30,1000,98,207,Practo
+Dr. Kishore Sahsani,Mahadev Eye Care,ahmedabad,Ophthalmologist,28,400,94,99,Practo
+Dr. Manish Shah,Tulip Women's Hospital,ahmedabad,Gynecologist/Obstetrician,24,1000,100,17,Practo
+Dr. Nishit Soni,Denta Sculpt Dental Clinic,ahmedabad,Dentist,22,400,99,435,Practo
+Dr. Alap Shah,Ivories Laser Dental Clinic & Dental Implant Center,ahmedabad,Dentist,22,300,98,1356,Practo
+Dr. Prateek Joshi,Atharva Orthopaedic Superspeciality Hospital,ahmedabad,Orthopedist,17,600,100,19,Practo
+Dr. J B Mishra (Physiotherapist),Shraddha Physiotherapy Clinic and Research Rehabilitation Center,ahmedabad,Physiotherapist,21,500,95,478,Practo
+Dr. Ravi N Shah,Smile Sitara Worldclass Aesthetic Dentistry,ahmedabad,Dentist,18,500,99,100,Practo
+Dr. Milind Sheth,Ora Dental Care,ahmedabad,Dentist,16,300,100,105,Practo
+Mr. Amit Anand,Apple Speech & Hearing Clinic,ahmedabad,Audiologist,26,800,96,100,Practo
+Dr. Ankitkumar M Bhagora,Karnavati Dental Care,ahmedabad,Dentist,14,300,100,16,Practo
+Dr. Jolly Shah,Aashu Dental and Multispeciality Clinic,ahmedabad,Dentist,29,200,88,47,Practo
+Dr. Bhaumik Shah,Shree Shreeji Women's Hospital,ahmedabad,Gynecologist/Obstetrician,22,600,99,586,Practo
+Dr. Rachana Parikh,Aeshaa Hospital,ahmedabad,Ear-Nose-Throat (ENT) Specialist,33,700,98,262,Practo
+Dr. Kinjal Shah,Ivories Laser Dental Clinic & Dental Implant Center,ahmedabad,Dentist,22,300,94,16,Practo
+Dr. Nisha sheth,Ora Dental Care,ahmedabad,Dentist,16,300,100,32,Practo
+Dr. Manish Shah,Aashu Dental and Multispeciality Clinic,ahmedabad,Dentist,29,300,100,216,Practo
+Dr. Vandil Patel,Shilp Dental Care,ahmedabad,Dentist,16,200,100,11,Practo
+Dr. Nehal Sheth,Sheth Dental Clinic And Implant Center,ahmedabad,Dentist,24,300,97,608,Practo
+Dr. Gopal Bhatia,Ahmedabad Psychiatry Clinic,ahmedabad,Psychiatrist,23,1500,96,25,Practo
+Dr. Hardik Khamar,Homeopathy Care,ahmedabad, Homoeopath,25,800,99,611,Practo
+Dr. Purvesh Chauhan,Titanium Dental Clinic,ahmedabad,Dentist,19,1500,99,506,Practo
+Dr. Anand Patel,Pearl Dental Care,ahmedabad,Dentist,22,300,98,450,Practo
+Dr. Nirav Bhatt,Dr Bhatt's Clinic,ahmedabad, Homoeopath,25,2000,100,470,Practo
+Dr. Astha Dudhat Mulani,Aadhya women’s ( Nest ivf center ) and kidney Hospital,ahmedabad,Gynecologist/Obstetrician,17,600,89,19,Practo
+Dr. Paresh Thakkar,Expert Ayurveda,ahmedabad, Ayurveda,34,700,100,3,Practo
+Dr. Dhaval Shah,Saavi Women's Hospital,ahmedabad,Gynecologist/Obstetrician,27,1000,98,512,Practo
+Dr. Kinnar Kapadia,Avenues Hair Transplant And Plastic Surgery Center,ahmedabad,Hair Transplant Surgeon,25,600,99,221,Practo
+Dr. Harshil Pandya,Chhaya Chest And Allergy Clinic,ahmedabad,Pulmonologist,8,500,85,26,Practo
+Dr. Minoti Vyas,Titanium Dental Clinic,ahmedabad,Dentist,13,500,98,48,Practo
+Dr. Harshit Shah,Eyeconic Eye Clinic,ahmedabad,Ophthalmologist,12,800,100,28,Practo
+Dr. Krupa Vaidya,Dhwanil Dental Clinic,ahmedabad,Dentist,28,300,99,183,Practo
+Dr. Sandeep Agarwal,"Aaryaa Endocrine, Diabetes & Hematology Centre",ahmedabad,Endocrinologist,25,1000,88,25,Practo
+Dr. Chirag J. Shah,Arham Surgical Hospital & Laparoscopic center,ahmedabad,Laparoscopic Surgeon,25,1000,95,37,Practo
+Dr. Abhishek Savalia,Savalia Multispeciality Hospital,ahmedabad,Urologist,16,500,91,65,Practo
+Dr. Mohit Dave,Aayushyam Hospital and Diagnostic Centre LLP,ahmedabad,Spine And Pain Specialist,15,800,96,26,Practo
+Dr. Harshil Shah,Manoshanti - The Mindcare Clinic,ahmedabad,Psychiatrist,9,800,96,45,Practo
+Dr. Rajiv Harshe,Apollo Hospital,ahmedabad,Spine And Pain Specialist,41,700,96,97,Practo
+Dr. S J Metalia,Metalia Hospital And ICCU,ahmedabad,,39,600,92,12,Practo
+Dr. Umesh Godhani,Kidney Cure Clinic and Dialysis centre,ahmedabad,Nephrologist,17,1500,100,1,Practo
+Dr. Anushree Prasad,Family Dental Clinic,ahmedabad,Dentist,20,500,100,49,Practo
+Dr. Priyal Parth Goyal,Parth Hospital,ahmedabad,Psychiatrist,11,800,100,10,Practo
+Dr. Kausha H. Khamar,Homeopathy Care,ahmedabad, Homoeopath,22,600,96,25,Practo
+Dr. Konain,Dr. Konain Dental and Aesthetic Clinic,ahmedabad,Dentist,7,300,95,57,Practo
+Dr. Vishal P Gor,Vidvish Neuropsychiatry Clinic,ahmedabad,Sexologist,11,1500,100,10,Practo
+Dr. Heena Verma,Dr. Heena Verma Clinic,ahmedabad,Gynecologist/Obstetrician,11,700,89,27,Practo
+Dr. Komal Thakkar,Total 360 Dental Care Clinic,ahmedabad,Dentist,14,800,98,45,Practo
+Dr. Atish Shah,Sangini Hospital,ahmedabad,Pediatrician,23,1200,99,155,Practo
+Dr. Chirag Goradia,Dr. Ila's Ayurveda,ahmedabad, Ayurveda,25,300,95,55,Practo
+Dr. Ujjawal Soni,Denta Sculpt Dental Clinic,ahmedabad,Dentist,23,400,100,29,Practo
+Dr. Surendra Agrawal,Srishti Medicare Private Limited,jaipur,General Physician,26,500,78,17,Practo
+Dr. Mukesh Jain,Tagore Hospital & Research Institute,jaipur,General Physician,33,500,71,7,Practo
+Dr. Govind Sharan Sharma,SRG Hospital,jaipur,General Physician,16,500,100,4,Practo
+Dr. Sandeep Jain,Tagore Hospital & Research Institute,jaipur,General Physician,27,500,33,3,Practo
+Dr. Goyal Shyam Behari,Amar Medical And Research Centre,jaipur,General Physician,38,1000,,,Practo
+Dr. Anil Vaidya,Srishti Medicare Private Limited,jaipur,General Surgeon,36,1000,100,2,Practo
+Dr. Ananth Padmanaban,Srishti Medicare Private Limited,jaipur,Internal Medicine,45,1000,30,10,Practo
+Dr. Rajendra Kumar,Amar Medical And Research Centre,jaipur,General Physician,45,1000,97,34,Practo
+Dr. Ajeet Singh,Amar Medical And Research Centre,jaipur,General Physician,27,1000,,,Practo
+Dr. Deepak Sharma,Cradle Children Hospital,jaipur,Pediatrician,17,500,94,804,Practo
+Dr. Devendra Soni,Cradle Children Hospital,jaipur,Pediatric Surgeon,19,1000,97,28,Practo
+Dr. Alok Choudhary,Cradle Children Hospital,jaipur,Pediatrician,21,500,82,175,Practo
+Dr. Jagveer Singh,Cradle Children Hospital,jaipur,Pediatrician,17,500,92,141,Practo
+Dr. Sushma Agrawal,Srishti Medicare Private Limited,jaipur,Gynecologist/Obstetrician,26,600,95,42,Practo
+Dr. Sameer Sharma,Metro MAS Hospital,jaipur,Cardiologist,32,500,100,4,Practo
+Dr. Vinod Kumar Atreya,SRG Hospital,jaipur,General Surgeon,41,500,100,3,Practo
+Dr. Sunil Agarwal,Cradle Children Hospital,jaipur,Pediatrician,16,500,98,730,Practo
+Dr. Robin Bothra,R N Multispeciality Hospital,jaipur,General Surgeon,23,400,100,5,Practo
+Dr. Jyotika Singh,Cradle Children Hospital,jaipur,Gynecologist/Obstetrician,15,500,95,64,Practo
+Dr. Shankar.M.N,Srishti Medicare Private Limited,jaipur,Ear-Nose-Throat (ENT) Specialist,39,1000,85,53,Practo
+Dr. A. K . Mathur,Priyush Neuro And Superspeciality Hospital,jaipur,General Surgeon,52,550,100,1,Practo
+Dr. Shubhra Singh,Maternite Hospital,jaipur,Gynecologist/Obstetrician,18,400,97,36,Practo
+Dr. Devendra Kumar Sharma,Cradle Children Hospital,jaipur,Pediatrician,16,500,96,27,Practo
+Dr. Shweta Gupta,Maternite Hospital,jaipur,Gynecologist/Obstetrician,26,400,80,14,Practo
+Dr. Garima Agrawal,Cradle Children Hospital,jaipur,Pediatrician,15,500,90,38,Practo
+Dr. Chitra Soni,R N Multispeciality Hospital,jaipur,Gynecologist/Obstetrician,16,400,79,23,Practo
+Dr. Goyal Mohan Baboo,Amar Medical And Research Centre,jaipur,Gastroenterologist,26,500,85,20,Practo
+Dr. Priyanka Yadav,Birla Fertility & IVF,jaipur,Infertility Specialist,17,800,100,4,Practo
+Dr. Sharad Goyal,Maternite Hospital,jaipur,Pediatrician,16,400,100,2,Practo
+Dr. Rakesh Kumar Verma,Tagore Hospital & Research Institute,jaipur,Orthopedist,18,500,100,2,Practo
+Dr. Radha Chonsariya,SRG Hospital,jaipur,Pediatrician,15,500,100,2,Practo
+Dr. Anju Soni,Soni Hospital,jaipur,Gynecologist/Obstetrician,46,700,50,7,Practo
+Dr. Seema Sharma,Maternite Hospital,jaipur,Gynecologist/Obstetrician,28,400,100,3,Practo
+Dr. Asha Susawat,Maternite Hospital,jaipur,Gynecologist/Obstetrician,17,400,97,38,Practo
+Dr. Vijay Rathore,Tagore Hospital & Research Institute,jaipur,General Surgeon,32,500,50,2,Practo
+Dr. Purushottam Gupta,Amar Medical And Research Centre,jaipur,General Physician,26,500,75,7,Practo
+Dr. Vijay Kumar,Soni Hospital,jaipur,Orthopedist,25,600,50,3,Practo
+Dr. Khemchand Bansal,Tagore Hospital & Research Institute,jaipur,General Surgeon,25,500,,,Practo
+Dr. Neetu Rani Bansal,Tagore Hospital & Research Institute,jaipur,Gynecologist/Obstetrician,25,500,,,Practo
+Dr. Deepak Sharma,Soni Hospital,jaipur,Gastroenterologist,15,500,92,11,Practo
+Dr. Amit Bengani,Amar Medical And Research Centre,jaipur,General Surgeon,23,500,64,10,Practo
+Dr. Ramdhan Meena,Amar Medical And Research Centre,jaipur,Internal Medicine,27,500,67,3,Practo
+Dr. Kanika Gulati,Amar Medical And Research Centre,jaipur,Gynecologist/Obstetrician,15,500,83,5,Practo
+Dr. Rakesh Ranjan,Metro MAS Hospital,jaipur,Orthopedist,16,400,100,,Practo
+Dr. C S Chaturvedi,Soni Hospital,jaipur,Orthopedist,42,600,57,6,Practo
+Dr. Mani Kant Kothari,Soni Hospital,jaipur,Internal Medicine,46,600,100,1,Practo
+Dr. Seema Ranjan,Metro MAS Hospital,jaipur,Gynecologist/Obstetrician,18,500,20,4,Practo
+Dr. Chanchal Sharma,Maternite Hospital,jaipur,Gynecologist/Obstetrician,30,400,75,12,Practo
+Dr. Ghanshyam Agrawal,Amar Medical And Research Centre,jaipur,Neurosurgeon,27,700,50,4,Practo
+Dr. Nitin Dwivedi,Amar Medical And Research Centre,jaipur,Neurosurgeon,22,500,50,2,Practo
+Dr. Vibha Vasu Gaur,Soni Hospital,jaipur,Cardiologist,30,500,100,3,Practo
+Dr. Dhruv Kamra,Asg Eye Hospitals,jaipur,Ophthalmologist,16,600,100,1,Practo
+Dr. Amit Sharan,Amar Medical And Research Centre,jaipur,General Surgeon,21,700,,,Practo
+Dr. Bhim Chand Meena,Amar Medical And Research Centre,jaipur,General Surgeon,15,500,,,Practo
+Dr. Mansoor Ahmed,Amar Medical And Research Centre,jaipur,Cardiologist,31,700,40,4,Practo
+Dr. Nitesh Lamoria,Purple Heron Hospital,jaipur,Plastic Surgeon,18,600,100,1,Practo
+Dr. Vatsala Bhagat,SRG Hospital,jaipur,Gynecologist/Obstetrician,18,500,80,5,Practo
+Dr. Sanjay Tambi,Soni Hospital,jaipur,General Surgeon,28,600,100,1,Practo
+Dr. Gurjar Sanjay Kumar,SRG Hospital,jaipur,General Surgeon,15,500,100,1,Practo
+Dr. Vasundhara Sharma,Amar Medical And Research Centre,jaipur,Gynecologist/Obstetrician,26,500,60,14,Practo
+Dr. Rakhi Jindal,Tagore Hospital & Research Institute,jaipur,Gynecologist/Obstetrician,19,500,,,Practo
+Dr. Divya singh,Asg Eye Hospitals,jaipur,Ophthalmologist,16,600,100,,Practo
+Dr. Raghav Johari,Tagore Hospital & Research Institute,jaipur,General Surgeon,27,1100,,,Practo
+Dr. Vaibhav Agnihotri,Soni Hospital,jaipur,Pediatrician,16,600,,,Practo
+Dr. Mohit Bihani,Purple Heron Hospital,jaipur,Spine Surgeon,19,700,,,Practo
+Dr. Akshay Kumar Mangal,Soni Hospital,jaipur,Neurologist,16,600,100,1,Practo
+Dr. Kavita Goel,Maternite Hospital,jaipur,Gynecologist/Obstetrician,22,400,,,Practo
+Dr. V. Jina Das,Srishti Medicare Private Limited,jaipur,Internal Medicine,49,1000,82,7,Practo
+Dr. Vijayaraghavan,Srishti Medicare Private Limited,jaipur,Spine Surgeon,21,1000,92,12,Practo
+Dr. Mohit Poddar,Cradle Children Hospital,jaipur,Pediatrician,20,600,98,41,Practo
+Dr. Anand M,Srishti Medicare Private Limited,jaipur,Orthopedist,21,1000,92,12,Practo
+Dr. Venkatesh B S,Srishti Medicare Private Limited,jaipur,General Surgeon,17,1000,100,6,Practo
+Dr. Yogesh Gupta,Priyush Neuro And Superspeciality Hospital,jaipur,Neurosurgeon,22,550,100,1,Practo
+Dr. Ashok Kumar Sharma,Priyush Neuro And Superspeciality Hospital,jaipur,Orthopedist,17,350,100,1,Practo
+Dr. Chirag Bhandari,Institute of Andrology and Sexual Health,jaipur,Sexologist,17,1500,96,255,Practo
+Dr. Rekha Jain,Mansarovar Hospital,jaipur,General Physician,38,1000,95,167,Practo
+Dr. Suchrita Yadav,Amar Medical And Research Centre,jaipur,General Physician,14,1000,100,,Practo
+Dr. Aayushi Choudhary,Purple Heron Hospital,jaipur,General Physician,9,1200,60,5,Practo
+Dr. Sneha Sharma (Physiotherapist),Fit N Fly Physiotherapy & Fitness Centre,jaipur,Physiotherapist,12,400,95,42,Practo
+Dr. Rahul Gupta,Yashwant Dental Clinic & Implant Centre,jaipur,Dentist,13,300,91,23,Practo
+Dr. Toshi Agarwal,Oxygen Woman & Child Clinic,jaipur,Gynecologist/Obstetrician,27,500,93,29,Practo
+Dr. Mili Gupta,AMD Dental Clinics,jaipur,Dentist,11,400,99,75,Practo
+Dr. Abhishek Bhargava,Dr Rajaram Neuro And Multispeciality Clinic,jaipur,Neurologist,8,600,93,14,Practo
+Dr. Sunita,Cradle Children Hospital,jaipur,Pediatrician,12,500,96,46,Practo
+Dr. Alfred Joel Wylie,Srishti Medicare Private Limited,jaipur,Dentist,12,500,100,3,Practo
+Dr. Pranjal Moharjal,Srishti Medicare Private Limited,jaipur,Urologist,14,500,86,5,Practo
+Dr. Pravesh Kumar Sharma,Srishti Medicare Private Limited,jaipur,Pediatrician,14,500,100,7,Practo
+Dr. Digvijay Rathore (Physiotherapist),Fit N Fly Physiotherapy & Fitness Centre,jaipur,Physiotherapist,13,400,95,84,Practo
+Ms. Sejal Agrawal,Srishti Medicare Private Limited,jaipur,Psychologist,7,2000,100,1,Practo
+Dr. Ankit Sharma,Srishti Medicare Private Limited,jaipur,Plastic Surgeon,14,500,,,Practo
+Dr. Aparna Sharma,Amar Medical And Research Centre,jaipur,Ophthalmologist,31,500,,,Practo
+Dr. Giriraj Prasad Sharma,Srishti Medicare Private Limited,jaipur,Urologist,13,600,67,2,Practo
+Dr. Dhara Sharma,Amar Medical And Research Centre,jaipur,Ear-Nose-Throat (ENT) Specialist,25,500,64,13,Practo
+Dr. Sakshi Prabodh,Cradle Children Hospital,jaipur,Pediatrician,11,500,100,1,Practo
+Dr. Deepika,Cradle Children Hospital,jaipur,Gynecologist/Obstetrician,13,500,100,10,Practo
+Dr. Pramod Kumar Suman,Asg Eye Hospitals,jaipur,Ophthalmologist,12,600,,,Practo
+Dr. Latika Banshiwala,Maternite Hospital,jaipur,Pediatrician,10,300,,,Practo
+Dr. Dipanshu Jain,Amar Medical And Research Centre,jaipur,Pulmonologist,12,500,,,Practo
+Dr. Rahul Nahar,Cradle Children Hospital,jaipur,Ear-Nose-Throat (ENT) Specialist,10,1000,87,30,Practo
+Dr. Richa Ainani Ahluwalia,Cradle Children Hospital,jaipur,Infertility Specialist,9,500,92,12,Practo
+Dr. Alok Vijay,Srishti Medicare Private Limited,jaipur,Pulmonologist,11,500,100,4,Practo
+Dr. Arti Yadav,Cradle Children Hospital,jaipur,Pediatrician,10,1000,100,1,Practo
+Dr. Babita,Srishti Medicare Private Limited,jaipur,Dermatologist,9,500,,,Practo
+Dr. Mukesh Kumar,Srishti Medicare Private Limited,jaipur,Dentist,13,500,,,Practo
+Dr. Narendra,Metro MAS Hospital,jaipur,General Surgeon,12,500,,,Practo
+Dr. Manoj Kumar Saini,Soni Hospital,jaipur,General Surgeon,13,500,,,Practo
+Dr. Kapil Dhawan,Amar Medical And Research Centre,jaipur,Pediatrician,13,500,50,1,Practo
+Dr. Om Prakash Bhimwal,Srishti Medicare Private Limited,jaipur,Orthopedist,12,500,75,4,Practo
+Dr. Meena Mahendrakumar,Srishti Medicare Private Limited,jaipur,General Surgeon,11,500,100,1,Practo
+Dr. Yogesh Motwani,Amar Medical And Research Centre,jaipur,Psychiatrist,13,600,94,16,Practo
+Dr. Vikas Rewar,Meditech Homeo Care,jaipur, Homoeopath,17,500,96,190,Practo
+Ms. Surbhi Joshi,Surbhi nutrition and wellness,jaipur,Dietitian/Nutritionist,10,600,92,26,Practo
+Dr. Patil Mukesh Prakash,Asg Eye Hospitals,jaipur,Ophthalmologist,14,600,100,1,Practo
+Dr. Ravinder Kumar Saini,Amar Medical And Research Centre,jaipur,Orthopedist,18,500,100,2,Practo
+Dr. Amith Natani (Physiotherapist),Srishti Medicare Private Limited,jaipur,Physiotherapist,20,500,33,,Practo
+Dr. Pooja Agarwal,Cradle Children Hospital,jaipur,Gynecologist/Obstetrician,8,500,,,Practo
+Dr. Shreya Srivastava,Soni Hospital,jaipur,Ear-Nose-Throat (ENT) Specialist,9,600,80,4,Practo
+Dr. Prashant Kothari,Srishti Medicare Private Limited,jaipur,Cardiothoracic Surgeon,17,700,98,565,Practo
+Dr. Aashish Saini,Cradle Children Hospital,jaipur,Pediatrician,9,500,,,Practo
+Dr. Vaibhav Mathur,SRG Hospital,jaipur,Neurologist,15,1000,50,4,Practo
+Dr. Vikas Mittal,Unikare Hospital,jaipur,General Physician,26,600,98,682,Practo
+Dr. Sanjeev Kumar Sharma,Dr Sanjeev's Pain Clinic,jaipur,General Physician,16,500,100,57,Practo
+Dr. Sunny Singhal,Singhal Clinic,jaipur,Geriatrician,12,100,100,43,Practo
+Dr. Vipin Kumar Jain,Manipal Hospitals,jaipur,General Physician,38,500,78,18,Practo
+Dr. Ashish Sharma,Maharshi Urology and Super speciality hospital,jaipur,Urologist,18,500,91,157,Practo
+Dr. Devendra Gupta,AARVI HOSPITAL,jaipur,General Physician,13,200,86,7,Practo
+Dr. Rishav Bansal,Bansal Health Clinic,jaipur,Geriatrician,13,650,99,92,Practo
+Dr. Peeyush Bhargava,Girdhar Hospital And Research Centre,jaipur,General Physician,27,500,80,9,Practo
+Dr. Aruna Jain,Manipal Hospitals,jaipur,Pediatrician,20,500,50,2,Practo
+Dr. Ravikant Porwal,Manipal Hospitals,jaipur,Internal Medicine,24,500,40,4,Practo
+Dr. Neha Vashisth,Femcare Clinic,jaipur,General Physician,16,300,100,2,Practo
+Dr. Dinesh Mehta,Health Line Clinic,jaipur,General Physician,4,250,100,5,Practo
+Dr. Shishir Hada,New Jyoti Medical,jaipur,General Physician,17,300,100,11,Practo
+Dr. Jitesh,Dr Jitesh Bhakar Clinic,jaipur,General Physician,6,150,100,4,Practo
+Dr. Pradeep Bhati,DD CLINIC,jaipur,General Physician,12,5,50,1,Practo
+Dr. Rohit Kumar Sharma,Sports Injury and Orthopedic Clinic,jaipur,General Physician,11,400,,,Practo
+Dr. Pragya Choudhary,Healix Care Clinic,jaipur,General Physician,5,399,100,1,Practo
+Dr. Anand Chhabra,Anand Clinic,jaipur,General Physician,9,800,,,Practo
+Dr. Chandan Kedawat,Manipal Hospitals,jaipur,Internal Medicine,33,500,50,2,Practo
+Dr. R. Grover,Dr. R Grover's Clinic & Research Centre,jaipur,Sexologist,25,300,89,72,Practo
+Dr. Mishthu Solanki,Smile Makers Dental,jaipur,Dentist,23,400,99,494,Practo
+Ms. Archana Jain,Angelcare - A Nutrition & Wellness Centre,jaipur,Dietitian/Nutritionist,37,500,95,102,Practo
+Dr. Ankit Kayal,Kayal Urocenter,jaipur,Urologist,20,500,97,273,Practo
+Dr. Yojna Shriwas,Dr. Yojna's Dental Clinic Digital Smile Design and Implant Centre,jaipur,Dentist,20,300,96,181,Practo
+Dr. Shantanu Choudhary,Signature Skin Clinic,jaipur,Dermatologist,18,500,97,689,Practo
+Dr. Col Dr Dinesh Bansal,Olivegreen Dental,jaipur,Dentist,19,,99,206,Practo
+Dr. Prachi Mital,Vivanta Clinics,jaipur,Dentist,17,300,96,26,Practo
+Dr. Shashank Gupta,Gupta Dental Implant Centre,jaipur,Dentist,14,400,99,400,Practo
+Dr. Akshay Garg,Anshu Dental Care,jaipur,Dentist,21,400,97,256,Practo
+Dr. Pooja Goyal,Dental Avenue Clinic,jaipur,Dentist,21,300,99,286,Practo
+Dr. Shrestha Singhania,Singhania's Dentovaidhyam,jaipur,Dentist,14,300,100,45,Practo
+Dr. Garima Gupta,Gupta Dental Implant Centre,jaipur,Dentist,14,400,99,147,Practo
+Dr. Punit Chitlangia,"Shekhawati Dental, Face & Hair Clinic",jaipur,Dentist,22,300,100,27,Practo
+Dr. Rohit Surekha,Triveni Policlinic and Diagnostic Centre,jaipur,Gastroenterologist,21,500,82,67,Practo
+Dr. Aarjav Jain,Aarjav Dental Clinic,jaipur,Dentist,15,300,99,161,Practo
+Dr. Nikhil Bansal,EndoVascular Expert Vascular Stroke & Pain Clinic,jaipur,Radiologist,14,200,100,7,Practo
+Dr. Kimi Mittal,Shree Dental and Medical Care,jaipur,Dentist,15,200,88,15,Practo
+Dr. Raghav Shah,Mahavir Jaipuria Rajasthan Hospital,jaipur,Psychiatrist,19,500,96,118,Practo
+Dr. Bharti Jain (Physiotherapist),Flexilife-The Fitness And Physiotherapy Centre,jaipur,Physiotherapist,14,400,100,15,Practo
+Dr. Komal Rastogi,"Smile Kraft, Dental Face & Hair Clinic",jaipur,Dentist,19,300,96,25,Practo
+Ms. Pooja Gupta,Disaan Multispeciality Healthcare Centre,jaipur,Psychologist,9,2500,100,105,Practo
+Dr. Soniya Prajapat,The Dental Home,jaipur,Dentist,14,200,100,66,Practo
+Dr. Anjali Uttwani,Realign Dental Clinic,jaipur,Dentist,10,300,98,86,Practo
+Dr. Bhawna Jethani,Singhania's Dentovaidhyam,jaipur,Dentist,14,300,100,27,Practo
+Dr. Vandana Khandelwal,Blooming Smiles Dental Clinic,jaipur,Dentist,14,300,96,24,Practo
+Dr. Harsh Prasad Udawat,Udawat Gastro Clinic,jaipur,Gastroenterologist,29,500,82,174,Practo
+Dr. Manpreet Taneja,Relief Clinics,jaipur, Homoeopath,22,300,100,6,Practo
+Dr. Sonu M. Karol,Karol Childrens Hospital,jaipur,Pediatrician,13,500,82,11,Practo
+Dr. Sunita Kothari,Shree Sumangal Polyclinic,jaipur,Gynecologist/Obstetrician,43,1000,90,146,Practo
+Dr. Sumit Taneja,Relief Clinics,jaipur, Homoeopath,22,1100,95,22,Practo
+Dr. Deepa Sadhnani,TOOTHique,jaipur,Dentist,20,300,100,7,Practo
+Dr. Pratibha Agrawal,AARVI HOSPITAL,jaipur,Gynecologist/Obstetrician,14,200,83,12,Practo
+Dr. Abhishek Hajela,Manipal Hospitals,jaipur,Endocrinologist,10,500,100,4,Practo
+Dr. Ravindra Singh Shekhawat,Blooming Smiles Dental Clinic,jaipur,Dentist,15,300,100,5,Practo
+Dr. Rachit Jain,Shree Siddharth ENT And Allergy Clinic,jaipur,Ear-Nose-Throat (ENT) Specialist,11,500,96,130,Practo
+Dr. Amit,Vivanta Clinics,jaipur,Dentist,16,300,100,16,Practo
+Dr. Gunja Sadhnani,Sadhnani's Dental Care,jaipur,Dentist,17,200,95,106,Practo
+Dr. Ravindra Dhariwal,Dhariwal Dento Cosmetics,jaipur,Dentist,18,350,96,258,Practo
+Dr. Anushri Ranjan,Pristine Dental and Facial Aesthetic Clinic,jaipur,Dentist,16,200,100,16,Practo
+Dr. Prashant Bhardwaj,Bhardwaj Dental Clinic,jaipur,Dentist,17,500,97,37,Practo
+Dr. Vinay Kumar Garg,Garg Ophthalmic Centre,lucknow,Ophthalmologist,45,1500,95,19,Practo
+Dr. Mamta Agarwal,Garg Ophthalmic Centre,lucknow,Ophthalmologist,29,1500,100,,Practo
+Dr. Hina Ali,Cloudnine Fertility - IVF Centre,lucknow,Infertility Specialist,15,1000,100,1,Practo
+Dr. Faisal Zia,Afifa Medical Clinic,lucknow,General Physician,18,400,100,5,Practo
+Dr. Saurabh Agarwal,Dr.Saurabh Agarwal Clinic,lucknow,General Physician,18,700,96,95,Practo
+Dr. Tarun Agarwal,Gopi Krishna Laser Stone Centre,lucknow,General Surgeon,27,600,98,307,Practo
+Dr. Vikas Kumar,Pushpa Dental Speciality Center,lucknow,Dentist,19,500,100,1110,Practo
+Dr. SP Lodhi,Nirvaan Ayurvedic Clinic,lucknow, Sexologist,23,500,100,41,Practo
+Dr. Swati Halwasiya,Smile Works Dental Clinic,lucknow,Dentist,12,500,100,7,Practo
+Dr. Jay Verma,Dr. Verma's Multispeciality Homeopathy Clinic,lucknow, Homoeopath,16,700,97,433,Practo
+Dr. Shreya Gupta,Birla Fertility and IVF,lucknow,Infertility Specialist,13,800,,,Practo
+Dr. Preeti Singh,Pushpa Dental Speciality Center,lucknow,Dentist,16,500,99,144,Practo
+Dr. Ananya Rawat,Dr. Ananya's Dental Care,lucknow,Dentist,9,300,,,Practo
+Dr. Rohit Purwar,Sri Ram Maternity Center and Hospital,lucknow,Urologist,15,500,81,20,Practo
+Dr. Madhulika Saxena,SIPS Super Specialty hospital,lucknow,Dentist,9,600,,,Practo
+Dr. Ashfak Ahmad (Physiotherapist),Nirvaan Ayurvedic Clinic,lucknow,Physiotherapist,2,500,100,2,Practo
+Dr. Ashish Mishra,Dr Ashish Mishra Clinic,lucknow,GastroIntestinal Surgeon,23,1200,91,11,Practo
+Dr. Ravita Srivastava,Ravita Medicare,lucknow,Gynecologist/Obstetrician,31,700,80,5,Practo
+Dr. Kumar Saurabh Srivastava,Garg Ophthalmic Centre,lucknow,Ophthalmologist,13,1500,100,1,Practo
+Dr. Akanksha Gupta Bajpai,Livgastro Diabetes Care,lucknow,General Physician,11,600,100,17,Practo
+Dr. Rama Srivastava,Jwala Hospital,lucknow,Laparoscopic Surgeon,43,800,87,111,Practo
+Dr. Sandeep Gupta,Neera Hospital,lucknow,General Physician,28,600,67,8,Practo
+Dr. Hriday Nath Tripathi,Max Super Speciality Hospital,lucknow,General Physician,49,700,100,2,Practo
+Dr. Deepali Mohanty,Max Super Speciality Hospital,lucknow,Internal Medicine,29,700,100,5,Practo
+Dr. Swadesh Kumar Singh,Max Super Speciality Hospital,lucknow,Internal Medicine,27,700,,,Practo
+Dr. Gaurav Prakash Singh,D P Bora Superspeciality Hospital,lucknow,General Physician,18,500,,,Practo
+Dr. S P Singh,Dr. Subodh's Dental Clinic,lucknow,Radiologist,55,1000,,,Practo
+Dr. Sunil Verma,Max Super Speciality Hospital,lucknow,Internal Medicine,25,700,,,Practo
+Dr. S N Gupta,Sanjivini Super Speciality Hospital,lucknow,Pulmonologist,39,1000,44,9,Practo
+Dr. Samir Mishra,Max Super Speciality Hospital,lucknow,General Physician,20,700,,,Practo
+Dr. Niraj Agarwal,Max Super Speciality Hospital,lucknow,General Physician,14,800,,,Practo
+Dr. Jitendra Singh,Sanjivini Super Speciality Hospital,lucknow,Pediatrician,12,600,100,1,Practo
+Dr. Piyush Abhishek,Pratima Smriti Clinic,lucknow,General Physician,2,300,,,Practo
+Dr. Sushil Kumar Gupta,Max Super Speciality Hospital,lucknow,General Physician,42,1000,67,3,Practo
+Dr. Lalit Pandey,Heal And Cure Medical Centre,lucknow,Pulmonologist,16,600,100,19,Practo
+Dr. Aditi Singh,Doctors Clinic,lucknow,General Physician,2,1000,100,19,Practo
+Dr. Priyanka Pandey,Heal And Cure Medical Centre,lucknow,General Physician,19,600,100,1,Practo
+Dr. R. K. Porwal,Porwal Clinic,lucknow,General Physician,43,600,92,90,Practo
+Dr. Deeksha Pandey,Healing Roots Homeopathy Clinic,lucknow, Homoeopath,3,200,100,66,Practo
+Dr. Sumita Rastogi,Dr. Sumita Rastogi Clinic,lucknow,General Physician,35,500,100,1,Practo
+Dr. Timothy Maximus,Family Clinic,lucknow,General Physician,34,250,,,Practo
+Dr. Ibrahim,Ashirwad Life Care Hospital,lucknow,General Physician,4,500,,,Practo
+Dr. Harshita Singh,Dr Harshita Singh General Clinic,lucknow,General Physician,8,200,,,Practo
+Dr. Pranshu Agarwal,Happy Minds Psychiatric Clinic,lucknow,General Physician,3,,,,Practo
+Dr. Sana Sajid,D P Bora Superspeciality Hospital,lucknow,General Physician,11,500,,,Practo
+Dr. Ravi Singh,Ravi Clinic- A Centre of Classical Homeopathy,lucknow, Homoeopath,26,300,90,556,Practo
+Dr. Neeraj Tandon,Nimisha Cancer Care,lucknow,Oncologist,35,1000,94,31,Practo
+Dr. Himanshu Gupta,Hemang Dental Orthodontic & Implant Clinic,lucknow,Dentist,21,300,95,56,Practo
+Dr. Devendra Singh,Expert Cancer Homeo Clinic,lucknow, Homoeopath,53,500,98,558,Practo
+Dr. Geeta Verma Gupta,Hemang Dental Orthodontic & Implant Clinic,lucknow,Dentist,20,300,95,39,Practo
+Dr. Sunita Chandra,Rajendra Nagar Hospital,lucknow,Infertility Specialist,38,1200,92,248,Practo
+Dr. H.K. Agarwal,Nirvan Hospital,lucknow,Psychiatrist,41,1200,90,649,Practo
+Dr. Bhumika Bansal,Max Super Speciality Hospital,lucknow,Gynecologist/Obstetrician,17,700,86,81,Practo
+Dr. Shivendra Srivastava,Shivendra's Ortho Clinic,lucknow,Orthopedist,26,600,89,264,Practo
+Dr. Dipendra Singh,Expert Cancer Homeo Clinic,lucknow, Homoeopath,18,500,99,266,Practo
+Dr. Puneet Yadav (Physiotherapist),Holistic Touch Physical Therapy And Wellness Clinic,lucknow,Physiotherapist,20,500,99,147,Practo
+Dr. CP Gupta,Adya Multi-Speciality Hospital,lucknow,Orthopedist,16,500,86,49,Practo
+Dr. Rohit Madan,The Dental Hub,lucknow,Dentist,24,500,99,407,Practo
+Dr. A. K. Jain,Dr. A. K. Jain's Clinic,lucknow, Ayurveda,44,610,65,43,Practo
+Dr. Shivam Bajpai,Livgastro Diabetes Care,lucknow,Gastroenterologist,13,800,93,27,Practo
+Dr. B D Verma,Arogya Ayurvedic Chikitsalaya,lucknow,Sexologist,24,500,96,26,Practo
+Dr. Karan Bhatia,Cochlea Advanced Surgical Centre,lucknow,Ear-Nose-Throat (ENT) Specialist,10,500,97,295,Practo
+Dr. Ankit Bahal,SmyleXL Dental Clinic,lucknow,Dentist,23,500,99,138,Practo
+Dr. Abhishek S Verma,Calgary Dental Clinic,lucknow,Dentist,21,300,100,25,Practo
+Dr. Adittya K Sharma,Medapex Healthcare,lucknow,Urologist,21,950,92,190,Practo
+Dr. Parul Prasad,Akarsh Hospital,lucknow,Psychiatrist,14,800,89,72,Practo
+Dr. Sipra Bagchi,Dr. Bagchi's IVF Gynaecology and Infertility Centre,lucknow,Gynecologist/Obstetrician,22,600,94,141,Practo
+Dr. Indrajeet Singh,Dentomax-Dento-Oral & Maxillofacial Clinic,lucknow,Dentist,20,500,99,84,Practo
+Dr. Deeptanshu Hanu Agarwal,Nirvan Hospital,lucknow,Sexologist,13,800,96,158,Practo
+Dr. Akhil Agarwal,Orthodontic Masters - Dental Braces Aligners,lucknow,Dentist,24,500,98,955,Practo
+Dr. Nandini Singh,The Bright Arch Multi Speciality Dental Studio,lucknow,Dentist,17,500,98,125,Practo
+Dr. Damini Ramchandani,Infinity Dental,lucknow,Dentist,16,500,98,85,Practo
+Dr. Lt. Col. R P Singh,Aarogyam Superspeciality Heart and Dental Clinic,lucknow,Cardiologist,22,800,94,31,Practo
+Dr. Shobhit Agarwal,Echo Dental Clinic and Implant Center,lucknow,Dentist,11,300,95,21,Practo
+Dr. Nitin Agarwal,Dr Agarwal's Dental Speciality Centre,lucknow,Dentist,29,500,97,119,Practo
+Dr. VP Singh,Vaishali Dental,lucknow,Dentist,21,500,99,135,Practo
+Dr. Suyash Singh Tomar,Dermax Skin Clinic,lucknow,Dermatologist,10,500,97,67,Practo
+Dr. Sonahita Agarwal,Arya Dental And Orthodontic Clinic,lucknow,Dentist,19,500,96,99,Practo
+Dr. Kirti Agarwal,Dr Agarwal's Dental Speciality Centre,lucknow,Dentist,23,500,98,111,Practo
+Dr. Mohammad Imran Khan,Advanced Dental Care,lucknow,Dentist,18,300,100,408,Practo
+Dr. Samarjit Singh,Dental Bliss,lucknow,Dentist,17,300,96,235,Practo
+Dr. Laxmi Shankar Singh,Prime Neurology Clinic,lucknow,Neurologist,15,1000,91,21,Practo
+Dr. Nishita Sinha,Dental Bliss,lucknow,Dentist,12,250,96,51,Practo
+Dr. Tarun Anand,Anand Care Centre,lucknow,Pediatrician,11,600,91,44,Practo
+Dr. Asit Shukla,Realtooth Dental Clinic,lucknow,Dentist,20,500,99,503,Practo
+Dr. Faiz Warsi,Genus Dental Implant And Orthodontic Center,lucknow,Dentist,14,300,100,276,Practo
+Dr. Sankalp Jain,Dr. A. K. Jain's Clinic,lucknow,Sexologist,10,1100,82,45,Practo
+Dr. Nitin Mittal,Max Super Speciality Hospital,lucknow,Ophthalmologist,25,700,80,5,Practo
+Dr. Sunil Yadav,Premier Dental & Implant Centre,lucknow,Dentist,13,500,100,118,Practo
+Dr. Afzaal Ansari,S S Orthopedic Centre,lucknow,Orthopedist,20,650,90,40,Practo
